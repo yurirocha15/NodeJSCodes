@@ -1,0 +1,1874 @@
+Fri, 09 Sep 2016 18:24:34 GMT express:application set "x-powered-by" to true
+Fri, 09 Sep 2016 18:24:34 GMT express:application set "etag" to 'weak'
+Fri, 09 Sep 2016 18:24:34 GMT express:application set "etag fn" to [Function: wetag]
+Fri, 09 Sep 2016 18:24:34 GMT express:application set "env" to 'development '
+Fri, 09 Sep 2016 18:24:34 GMT express:application set "query parser" to 'extended'
+Fri, 09 Sep 2016 18:24:34 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Fri, 09 Sep 2016 18:24:34 GMT express:application set "subdomain offset" to 2
+Fri, 09 Sep 2016 18:24:34 GMT express:application set "trust proxy" to false
+Fri, 09 Sep 2016 18:24:34 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 09 Sep 2016 18:24:34 GMT express:application booting in development  mode
+Fri, 09 Sep 2016 18:24:34 GMT express:application set "view" to [Function: View]
+Fri, 09 Sep 2016 18:24:34 GMT express:application set "views" to 'C:\\Users\\yuri.rocha\\Desktop\\NodeJS\\ntalk\\views'
+Fri, 09 Sep 2016 18:24:34 GMT express:application set "jsonp callback name" to 'callback'
+Fri, 09 Sep 2016 18:24:35 GMT express:application set "x-powered-by" to true
+Fri, 09 Sep 2016 18:24:35 GMT express:application set "etag" to 'weak'
+Fri, 09 Sep 2016 18:24:35 GMT express:application set "etag fn" to [Function: wetag]
+Fri, 09 Sep 2016 18:24:35 GMT express:application set "env" to 'development '
+Fri, 09 Sep 2016 18:24:35 GMT express:application set "query parser" to 'extended'
+Fri, 09 Sep 2016 18:24:35 GMT express:application set "query parser fn" to [Function: parseExtendedQueryString]
+Fri, 09 Sep 2016 18:24:35 GMT express:application set "subdomain offset" to 2
+Fri, 09 Sep 2016 18:24:35 GMT express:application set "trust proxy" to false
+Fri, 09 Sep 2016 18:24:35 GMT express:application set "trust proxy fn" to [Function: trustNone]
+Fri, 09 Sep 2016 18:24:35 GMT express:application booting in development  mode
+Fri, 09 Sep 2016 18:24:35 GMT express:application set "view" to [Function: View]
+Fri, 09 Sep 2016 18:24:35 GMT express:application set "views" to 'C:\\Users\\yuri.rocha\\Desktop\\NodeJS\\ntalk\\views'
+Fri, 09 Sep 2016 18:24:35 GMT express:application set "jsonp callback name" to 'callback'
+Fri, 09 Sep 2016 18:24:35 GMT socket.io:server initializing namespace /
+Fri, 09 Sep 2016 18:24:35 GMT socket.io:server creating engine.io instance with opts {"path":"/socket.io"}
+Fri, 09 Sep 2016 18:24:35 GMT socket.io:server attaching client serving req handler
+Fri, 09 Sep 2016 18:24:35 GMT express:application set "x-powered-by" to false
+Fri, 09 Sep 2016 18:24:35 GMT express:application set "views" to 'C:\\Users\\yuri.rocha\\Desktop\\NodeJS\\ntalk\\views'
+Fri, 09 Sep 2016 18:24:35 GMT express:application set "view engine" to 'ejs'
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / query
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / expressInit
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / compression
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / cookieParser
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / session
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / jsonParser
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / urlencodedParser
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / methodOverride
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / serveStatic
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / csrf
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / <anonymous>
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT socket.io:server initializing namespace /
+Fri, 09 Sep 2016 18:24:35 GMT socket.io:server creating engine.io instance with opts {"path":"/socket.io"}
+Fri, 09 Sep 2016 18:24:35 GMT socket.io:server attaching client serving req handler
+Fri, 09 Sep 2016 18:24:35 GMT express:application set "x-powered-by" to false
+Fri, 09 Sep 2016 18:24:35 GMT express:application set "views" to 'C:\\Users\\yuri.rocha\\Desktop\\NodeJS\\ntalk\\views'
+Fri, 09 Sep 2016 18:24:35 GMT express:application set "view engine" to 'ejs'
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / query
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / expressInit
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / compression
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / cookieParser
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / session
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / jsonParser
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / urlencodedParser
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / methodOverride
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / serveStatic
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / csrf
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:35 GMT express:router use / <anonymous>
+Fri, 09 Sep 2016 18:24:35 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route new /chat
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /chat
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route get /chat
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route get /chat
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route new /contatos
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /contatos
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route get /contatos
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route get /contatos
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route new /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route get /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route get /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route new /contato
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /contato
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route post /contato
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route post /contato
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route new /contato/:id/editar
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /contato/:id/editar
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route get /contato/:id/editar
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route get /contato/:id/editar
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route new /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route put /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route put /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route new /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route delete /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route delete /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route get /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route new /entrar
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /entrar
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route post /entrar
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route new /sair
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /sair
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route get /sair
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router use / <anonymous>
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router use / <anonymous>
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route new /chat
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /chat
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route get /chat
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route get /chat
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route new /contatos
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /contatos
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route get /contatos
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route get /contatos
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route new /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route get /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route get /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route new /contato
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /contato
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route post /contato
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route post /contato
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route new /contato/:id/editar
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /contato/:id/editar
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route get /contato/:id/editar
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route get /contato/:id/editar
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route new /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route put /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route put /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route new /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route delete /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route delete /contato/:id
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route get /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route new /entrar
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /entrar
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route post /entrar
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route new /sair
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /sair
+Fri, 09 Sep 2016 18:24:36 GMT express:router:route get /sair
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router use / <anonymous>
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router use / <anonymous>
+Fri, 09 Sep 2016 18:24:36 GMT express:router:layer new /
+Fri, 09 Sep 2016 18:24:36 GMT express:router dispatching GET /
+Fri, 09 Sep 2016 18:24:36 GMT express:router query  : /
+Fri, 09 Sep 2016 18:24:36 GMT express:router expressInit  : /
+Fri, 09 Sep 2016 18:24:36 GMT express:router compression  : /
+Fri, 09 Sep 2016 18:24:36 GMT express:router cookieParser  : /
+Fri, 09 Sep 2016 18:24:36 GMT express:router session  : /
+Fri, 09 Sep 2016 18:24:36 GMT express-session fetching lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc
+Fri, 09 Sep 2016 18:24:36 GMT connect:redis GET "lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc"
+Fri, 09 Sep 2016 18:24:36 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"XER5RL2OUf98CtkDyeooobsn"}
+Fri, 09 Sep 2016 18:24:36 GMT express-session session found
+Fri, 09 Sep 2016 18:24:36 GMT express:router jsonParser  : /
+Fri, 09 Sep 2016 18:24:36 GMT express:router urlencodedParser  : /
+Fri, 09 Sep 2016 18:24:36 GMT express:router methodOverride  : /
+Fri, 09 Sep 2016 18:24:36 GMT express:router serveStatic  : /
+Fri, 09 Sep 2016 18:24:36 GMT send stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\public\index.html"
+Fri, 09 Sep 2016 18:24:36 GMT express:router csrf  : /
+Fri, 09 Sep 2016 18:24:36 GMT express:router <anonymous>  : /
+Fri, 09 Sep 2016 18:24:36 GMT express:view lookup "home/index.ejs"
+Fri, 09 Sep 2016 18:24:36 GMT express:view stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\home\index.ejs"
+Fri, 09 Sep 2016 18:24:36 GMT express:view render "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\home\index.ejs"
+Fri, 09 Sep 2016 18:24:36 GMT express-session saving lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc
+Fri, 09 Sep 2016 18:24:36 GMT connect:redis SET "lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc" {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"XER5RL2OUf98CtkDyeooobsn"} ttl:86400
+Fri, 09 Sep 2016 18:24:36 GMT express-session split response
+Fri, 09 Sep 2016 18:24:36 GMT compression no compression: size below threshold
+Fri, 09 Sep 2016 18:24:36 GMT connect:redis SET complete
+Fri, 09 Sep 2016 18:24:36 GMT express:router dispatching GET /stylesheets/style.css
+Fri, 09 Sep 2016 18:24:36 GMT express:router query  : /stylesheets/style.css
+Fri, 09 Sep 2016 18:24:36 GMT express:router expressInit  : /stylesheets/style.css
+Fri, 09 Sep 2016 18:24:36 GMT express:router compression  : /stylesheets/style.css
+Fri, 09 Sep 2016 18:24:36 GMT express:router cookieParser  : /stylesheets/style.css
+Fri, 09 Sep 2016 18:24:36 GMT express:router session  : /stylesheets/style.css
+Fri, 09 Sep 2016 18:24:36 GMT express-session fetching lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc
+Fri, 09 Sep 2016 18:24:36 GMT connect:redis GET "lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc"
+Fri, 09 Sep 2016 18:24:36 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"XER5RL2OUf98CtkDyeooobsn"}
+Fri, 09 Sep 2016 18:24:36 GMT express-session session found
+Fri, 09 Sep 2016 18:24:36 GMT express:router jsonParser  : /stylesheets/style.css
+Fri, 09 Sep 2016 18:24:36 GMT express:router urlencodedParser  : /stylesheets/style.css
+Fri, 09 Sep 2016 18:24:36 GMT express:router methodOverride  : /stylesheets/style.css
+Fri, 09 Sep 2016 18:24:36 GMT express:router serveStatic  : /stylesheets/style.css
+Fri, 09 Sep 2016 18:24:36 GMT send stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\public\stylesheets\style.css"
+Fri, 09 Sep 2016 18:24:36 GMT express:router dispatching GET /javascripts/zepto.min.js
+Fri, 09 Sep 2016 18:24:36 GMT express:router query  : /javascripts/zepto.min.js
+Fri, 09 Sep 2016 18:24:36 GMT express:router expressInit  : /javascripts/zepto.min.js
+Fri, 09 Sep 2016 18:24:36 GMT express:router compression  : /javascripts/zepto.min.js
+Fri, 09 Sep 2016 18:24:36 GMT express:router cookieParser  : /javascripts/zepto.min.js
+Fri, 09 Sep 2016 18:24:36 GMT send pipe "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\public\stylesheets\style.css"
+Fri, 09 Sep 2016 18:24:36 GMT send accept ranges
+Fri, 09 Sep 2016 18:24:36 GMT send cache-control public, max-age=3600
+Fri, 09 Sep 2016 18:24:36 GMT send modified Tue, 30 Aug 2016 18:21:48 GMT
+Fri, 09 Sep 2016 18:24:36 GMT send etag W/"24774-156dcaf8f4c"
+Fri, 09 Sep 2016 18:24:36 GMT express:router session  : /javascripts/zepto.min.js
+Fri, 09 Sep 2016 18:24:36 GMT send content-type text/css
+Fri, 09 Sep 2016 18:24:36 GMT send not modified
+Fri, 09 Sep 2016 18:24:36 GMT express-session fetching lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc
+Fri, 09 Sep 2016 18:24:36 GMT connect:redis GET "lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc"
+Fri, 09 Sep 2016 18:24:36 GMT express-session saving lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc
+Fri, 09 Sep 2016 18:24:36 GMT connect:redis SET "lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc" {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"XER5RL2OUf98CtkDyeooobsn"} ttl:86400
+Fri, 09 Sep 2016 18:24:36 GMT connect:redis SET complete
+Fri, 09 Sep 2016 18:24:36 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"XER5RL2OUf98CtkDyeooobsn"}
+Fri, 09 Sep 2016 18:24:36 GMT express-session session found
+Fri, 09 Sep 2016 18:24:36 GMT compression undefined not compressible
+Fri, 09 Sep 2016 18:24:36 GMT compression no compression: filtered
+Fri, 09 Sep 2016 18:24:36 GMT express:router jsonParser  : /javascripts/zepto.min.js
+Fri, 09 Sep 2016 18:24:36 GMT express:router urlencodedParser  : /javascripts/zepto.min.js
+Fri, 09 Sep 2016 18:24:36 GMT express:router methodOverride  : /javascripts/zepto.min.js
+Fri, 09 Sep 2016 18:24:36 GMT express:router serveStatic  : /javascripts/zepto.min.js
+Fri, 09 Sep 2016 18:24:36 GMT send stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\public\javascripts\zepto.min.js"
+Fri, 09 Sep 2016 18:24:36 GMT send pipe "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\public\javascripts\zepto.min.js"
+Fri, 09 Sep 2016 18:24:36 GMT send accept ranges
+Fri, 09 Sep 2016 18:24:36 GMT send cache-control public, max-age=3600
+Fri, 09 Sep 2016 18:24:36 GMT send modified Tue, 30 Aug 2016 18:24:02 GMT
+Fri, 09 Sep 2016 18:24:36 GMT send etag W/"6a4f-156dcb19bde"
+Fri, 09 Sep 2016 18:24:36 GMT send content-type application/javascript
+Fri, 09 Sep 2016 18:24:36 GMT send not modified
+Fri, 09 Sep 2016 18:24:36 GMT express-session saving lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc
+Fri, 09 Sep 2016 18:24:36 GMT connect:redis SET "lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc" {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"XER5RL2OUf98CtkDyeooobsn"} ttl:86400
+Fri, 09 Sep 2016 18:24:36 GMT connect:redis SET complete
+Fri, 09 Sep 2016 18:24:36 GMT compression undefined not compressible
+Fri, 09 Sep 2016 18:24:36 GMT compression no compression: filtered
+Fri, 09 Sep 2016 18:24:41 GMT express:router dispatching POST /entrar
+Fri, 09 Sep 2016 18:24:41 GMT express:router query  : /entrar
+Fri, 09 Sep 2016 18:24:41 GMT express:router expressInit  : /entrar
+Fri, 09 Sep 2016 18:24:41 GMT express:router compression  : /entrar
+Fri, 09 Sep 2016 18:24:41 GMT express:router cookieParser  : /entrar
+Fri, 09 Sep 2016 18:24:41 GMT express:router session  : /entrar
+Fri, 09 Sep 2016 18:24:41 GMT express-session fetching lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc
+Fri, 09 Sep 2016 18:24:41 GMT connect:redis GET "lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc"
+Fri, 09 Sep 2016 18:24:41 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"XER5RL2OUf98CtkDyeooobsn"}
+Fri, 09 Sep 2016 18:24:41 GMT express-session session found
+Fri, 09 Sep 2016 18:24:41 GMT express:router jsonParser  : /entrar
+Fri, 09 Sep 2016 18:24:41 GMT express:router urlencodedParser  : /entrar
+Fri, 09 Sep 2016 18:24:41 GMT express:router methodOverride  : /entrar
+Fri, 09 Sep 2016 18:24:41 GMT express:router serveStatic  : /entrar
+Fri, 09 Sep 2016 18:24:41 GMT express:router csrf  : /entrar
+Fri, 09 Sep 2016 18:24:41 GMT express:router <anonymous>  : /entrar
+Fri, 09 Sep 2016 18:24:41 GMT mquery findOne usuarios { email: 'yuri@email.com' } { fields: { nome: 1, email: 1 } }
+Fri, 09 Sep 2016 18:24:42 GMT express-session saving lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc
+Fri, 09 Sep 2016 18:24:42 GMT connect:redis SET "lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc" {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"XER5RL2OUf98CtkDyeooobsn","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}} ttl:86400
+Fri, 09 Sep 2016 18:24:42 GMT express-session split response
+Fri, 09 Sep 2016 18:24:42 GMT compression no compression: size below threshold
+Fri, 09 Sep 2016 18:24:42 GMT connect:redis SET complete
+Fri, 09 Sep 2016 18:24:42 GMT express:router dispatching GET /contatos
+Fri, 09 Sep 2016 18:24:42 GMT express:router query  : /contatos
+Fri, 09 Sep 2016 18:24:42 GMT express:router expressInit  : /contatos
+Fri, 09 Sep 2016 18:24:42 GMT express:router compression  : /contatos
+Fri, 09 Sep 2016 18:24:42 GMT express:router cookieParser  : /contatos
+Fri, 09 Sep 2016 18:24:42 GMT express:router session  : /contatos
+Fri, 09 Sep 2016 18:24:42 GMT express-session fetching lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc
+Fri, 09 Sep 2016 18:24:42 GMT connect:redis GET "lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc"
+Fri, 09 Sep 2016 18:24:42 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"XER5RL2OUf98CtkDyeooobsn","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:24:42 GMT express-session session found
+Fri, 09 Sep 2016 18:24:42 GMT express:router jsonParser  : /contatos
+Fri, 09 Sep 2016 18:24:42 GMT express:router urlencodedParser  : /contatos
+Fri, 09 Sep 2016 18:24:42 GMT express:router methodOverride  : /contatos
+Fri, 09 Sep 2016 18:24:42 GMT express:router serveStatic  : /contatos
+Fri, 09 Sep 2016 18:24:42 GMT send stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\public\contatos"
+Fri, 09 Sep 2016 18:24:42 GMT express:router csrf  : /contatos
+Fri, 09 Sep 2016 18:24:42 GMT express:router <anonymous>  : /contatos
+Fri, 09 Sep 2016 18:24:42 GMT mquery findOne usuarios { _id: 57c9c9886597ba7807bc8494 } { fields: undefined }
+Fri, 09 Sep 2016 18:24:42 GMT express:view lookup "contatos/index.ejs"
+Fri, 09 Sep 2016 18:24:42 GMT express:view stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\contatos\index.ejs"
+Fri, 09 Sep 2016 18:24:42 GMT express:view render "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\contatos\index.ejs"
+Fri, 09 Sep 2016 18:24:42 GMT express-session saving lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc
+Fri, 09 Sep 2016 18:24:42 GMT connect:redis SET "lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc" {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"XER5RL2OUf98CtkDyeooobsn","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}} ttl:86400
+Fri, 09 Sep 2016 18:24:42 GMT express-session split response
+Fri, 09 Sep 2016 18:24:42 GMT compression gzip compression
+Fri, 09 Sep 2016 18:24:42 GMT connect:redis SET complete
+Fri, 09 Sep 2016 18:24:42 GMT socket.io:server serve client 304
+Fri, 09 Sep 2016 18:24:42 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:24:42 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGCSzX"
+Fri, 09 Sep 2016 18:24:42 GMT engine handshaking client "WzPHuNDo5FVdJG70AAAA"
+Fri, 09 Sep 2016 18:24:42 GMT engine:socket sending packet "open" ({"sid":"WzPHuNDo5FVdJG70AAAA","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Fri, 09 Sep 2016 18:24:42 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:24:42 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:24:42 GMT engine:polling writing " 	�0{"sid":"WzPHuNDo5FVdJG70AAAA","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Fri, 09 Sep 2016 18:24:42 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:24:42 GMT socket.io:server incoming connection with id WzPHuNDo5FVdJG70AAAA
+Fri, 09 Sep 2016 18:24:42 GMT socket.io:client connecting to namespace /
+Fri, 09 Sep 2016 18:24:42 GMT socket.io:namespace adding socket to nsp /
+Fri, 09 Sep 2016 18:24:42 GMT connect:redis GET "lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc"
+Fri, 09 Sep 2016 18:24:42 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"XER5RL2OUf98CtkDyeooobsn","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:24:42 GMT socket.io:socket socket connected - writing packet
+Fri, 09 Sep 2016 18:24:42 GMT socket.io:socket joining room /#WzPHuNDo5FVdJG70AAAA
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-redis adding /#WzPHuNDo5FVdJG70AAAA to /#WzPHuNDo5FVdJG70AAAA 
+Fri, 09 Sep 2016 18:24:42 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Fri, 09 Sep 2016 18:24:42 GMT engine:socket sending packet "message" (0)
+Fri, 09 Sep 2016 18:24:42 GMT socket.io:socket joined room /#WzPHuNDo5FVdJG70AAAA
+Fri, 09 Sep 2016 18:24:42 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:24:42 GMT engine:socket sending packet "message" (2["notify-onlines","yuri@email.com"])
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:24:42 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:24:42 GMT engine:socket sending packet "message" (2["notify-onlines","fulano@email.com"])
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:24:42 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:24:42 GMT engine:socket sending packet "message" (2["notify-onlines","batata@email.com"])
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:24:42 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:24:42 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:24:42 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGCS-T&sid=WzPHuNDo5FVdJG70AAAA"
+Fri, 09 Sep 2016 18:24:42 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:24:42 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:24:42 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:24:42 GMT engine:polling writing " �40 �42["notify-onlines","yuri@email.com"] 	�42["notify-onlines","fulano@email.com"] 	�42["notify-onlines","batata@email.com"]"
+Fri, 09 Sep 2016 18:24:42 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:24:42 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:24:42 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGCS-f&sid=WzPHuNDo5FVdJG70AAAA"
+Fri, 09 Sep 2016 18:24:42 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:24:42 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:24:43 GMT express:router dispatching GET /sair
+Fri, 09 Sep 2016 18:24:43 GMT express:router query  : /sair
+Fri, 09 Sep 2016 18:24:43 GMT express:router expressInit  : /sair
+Fri, 09 Sep 2016 18:24:43 GMT express:router compression  : /sair
+Fri, 09 Sep 2016 18:24:43 GMT express:router cookieParser  : /sair
+Fri, 09 Sep 2016 18:24:43 GMT express:router session  : /sair
+Fri, 09 Sep 2016 18:24:43 GMT express-session fetching lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc
+Fri, 09 Sep 2016 18:24:43 GMT connect:redis GET "lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc"
+Fri, 09 Sep 2016 18:24:43 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"XER5RL2OUf98CtkDyeooobsn","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:24:43 GMT express-session session found
+Fri, 09 Sep 2016 18:24:43 GMT express:router jsonParser  : /sair
+Fri, 09 Sep 2016 18:24:43 GMT express:router urlencodedParser  : /sair
+Fri, 09 Sep 2016 18:24:43 GMT express:router methodOverride  : /sair
+Fri, 09 Sep 2016 18:24:43 GMT express:router serveStatic  : /sair
+Fri, 09 Sep 2016 18:24:43 GMT send stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\public\sair"
+Fri, 09 Sep 2016 18:24:43 GMT express:router csrf  : /sair
+Fri, 09 Sep 2016 18:24:43 GMT express:router <anonymous>  : /sair
+Fri, 09 Sep 2016 18:24:43 GMT connect:redis DEL "ntalk.sidlr21ubL1Avtv9pWkcgF6PqWy30QsbJAc"
+Fri, 09 Sep 2016 18:24:43 GMT express-session no session
+Fri, 09 Sep 2016 18:24:43 GMT express-session no session
+Fri, 09 Sep 2016 18:24:43 GMT compression no compression: size below threshold
+Fri, 09 Sep 2016 18:24:43 GMT express:router dispatching GET /
+Fri, 09 Sep 2016 18:24:43 GMT express:router query  : /
+Fri, 09 Sep 2016 18:24:43 GMT express:router expressInit  : /
+Fri, 09 Sep 2016 18:24:43 GMT express:router compression  : /
+Fri, 09 Sep 2016 18:24:43 GMT express:router cookieParser  : /
+Fri, 09 Sep 2016 18:24:43 GMT express:router session  : /
+Fri, 09 Sep 2016 18:24:43 GMT express-session fetching lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc
+Fri, 09 Sep 2016 18:24:43 GMT connect:redis GET "lr21ubL1Avtv9pWkcgF6PqWy30QsbJAc"
+Fri, 09 Sep 2016 18:24:43 GMT express-session no session found
+Fri, 09 Sep 2016 18:24:43 GMT express:router jsonParser  : /
+Fri, 09 Sep 2016 18:24:43 GMT express:router urlencodedParser  : /
+Fri, 09 Sep 2016 18:24:43 GMT express:router methodOverride  : /
+Fri, 09 Sep 2016 18:24:43 GMT express:router serveStatic  : /
+Fri, 09 Sep 2016 18:24:43 GMT send stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\public\index.html"
+Fri, 09 Sep 2016 18:24:43 GMT express:router csrf  : /
+Fri, 09 Sep 2016 18:24:43 GMT express:router <anonymous>  : /
+Fri, 09 Sep 2016 18:24:43 GMT express:view lookup "home/index.ejs"
+Fri, 09 Sep 2016 18:24:43 GMT express:view stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\home\index.ejs"
+Fri, 09 Sep 2016 18:24:43 GMT express:view render "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\home\index.ejs"
+Fri, 09 Sep 2016 18:24:43 GMT express-session saving GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:24:43 GMT connect:redis SET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY" {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq"} ttl:86400
+Fri, 09 Sep 2016 18:24:43 GMT express-session split response
+Fri, 09 Sep 2016 18:24:43 GMT express-session set-cookie ntalk.sid=s%3AGaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY.r2wC95WmaEF6aBU1ru506KX9EzSlvzxpHVh84meZzoo; Path=/; HttpOnly
+Fri, 09 Sep 2016 18:24:43 GMT compression no compression: size below threshold
+Fri, 09 Sep 2016 18:24:43 GMT connect:redis SET complete
+Fri, 09 Sep 2016 18:24:43 GMT engine:socket transport error
+Fri, 09 Sep 2016 18:24:43 GMT engine:polling closing
+Fri, 09 Sep 2016 18:24:43 GMT engine:polling transport writable - closing right away
+Fri, 09 Sep 2016 18:24:43 GMT engine:polling writing " �1"
+Fri, 09 Sep 2016 18:24:43 GMT socket.io:client client close with reason transport error
+Fri, 09 Sep 2016 18:24:43 GMT socket.io:socket closing socket - reason transport error
+Fri, 09 Sep 2016 18:24:43 GMT socket.io-redis removing /#WzPHuNDo5FVdJG70AAAA from all rooms
+Fri, 09 Sep 2016 18:24:43 GMT socket.io-redis removing /#WzPHuNDo5FVdJG70AAAA from /#WzPHuNDo5FVdJG70AAAA
+Fri, 09 Sep 2016 18:24:43 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:24:43 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:24:43 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"}
+Fri, 09 Sep 2016 18:24:43 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"} as 2["send-client","<b>Yuri</b> saiu do chat.<br>"]
+Fri, 09 Sep 2016 18:24:43 GMT socket.io:socket leave room undefined
+Fri, 09 Sep 2016 18:24:43 GMT socket.io-redis removing /#WzPHuNDo5FVdJG70AAAA from undefined
+node_redis: Deprecated: The RPUSH command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Fri, 09 Sep 2016 18:24:43 GMT socket.io:socket left room undefined
+Fri, 09 Sep 2016 18:24:43 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:24:43 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:24:43 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:25:48 GMT express:router dispatching POST /entrar
+Fri, 09 Sep 2016 18:25:48 GMT express:router query  : /entrar
+Fri, 09 Sep 2016 18:25:48 GMT express:router expressInit  : /entrar
+Fri, 09 Sep 2016 18:25:48 GMT express:router compression  : /entrar
+Fri, 09 Sep 2016 18:25:48 GMT express:router cookieParser  : /entrar
+Fri, 09 Sep 2016 18:25:48 GMT express:router session  : /entrar
+Fri, 09 Sep 2016 18:25:48 GMT express-session fetching GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:25:48 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:25:48 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq"}
+Fri, 09 Sep 2016 18:25:48 GMT express-session session found
+Fri, 09 Sep 2016 18:25:48 GMT express:router jsonParser  : /entrar
+Fri, 09 Sep 2016 18:25:48 GMT express:router urlencodedParser  : /entrar
+Fri, 09 Sep 2016 18:25:48 GMT express:router methodOverride  : /entrar
+Fri, 09 Sep 2016 18:25:48 GMT express:router serveStatic  : /entrar
+Fri, 09 Sep 2016 18:25:48 GMT express:router csrf  : /entrar
+Fri, 09 Sep 2016 18:25:48 GMT express:router <anonymous>  : /entrar
+Fri, 09 Sep 2016 18:25:48 GMT mquery findOne usuarios { email: 'yuri@email.com' } { fields: { nome: 1, email: 1 } }
+Fri, 09 Sep 2016 18:25:48 GMT express-session saving GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:25:48 GMT connect:redis SET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY" {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}} ttl:86400
+Fri, 09 Sep 2016 18:25:48 GMT express-session split response
+Fri, 09 Sep 2016 18:25:48 GMT compression no compression: size below threshold
+Fri, 09 Sep 2016 18:25:48 GMT connect:redis SET complete
+Fri, 09 Sep 2016 18:25:48 GMT express:router dispatching GET /contatos
+Fri, 09 Sep 2016 18:25:48 GMT express:router query  : /contatos
+Fri, 09 Sep 2016 18:25:48 GMT express:router expressInit  : /contatos
+Fri, 09 Sep 2016 18:25:48 GMT express:router compression  : /contatos
+Fri, 09 Sep 2016 18:25:48 GMT express:router cookieParser  : /contatos
+Fri, 09 Sep 2016 18:25:48 GMT express:router session  : /contatos
+Fri, 09 Sep 2016 18:25:48 GMT express-session fetching GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:25:48 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:25:48 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:25:48 GMT express-session session found
+Fri, 09 Sep 2016 18:25:48 GMT express:router jsonParser  : /contatos
+Fri, 09 Sep 2016 18:25:48 GMT express:router urlencodedParser  : /contatos
+Fri, 09 Sep 2016 18:25:48 GMT express:router methodOverride  : /contatos
+Fri, 09 Sep 2016 18:25:48 GMT express:router serveStatic  : /contatos
+Fri, 09 Sep 2016 18:25:48 GMT send stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\public\contatos"
+Fri, 09 Sep 2016 18:25:48 GMT express:router csrf  : /contatos
+Fri, 09 Sep 2016 18:25:48 GMT express:router <anonymous>  : /contatos
+Fri, 09 Sep 2016 18:25:48 GMT mquery findOne usuarios { _id: 57c9c9886597ba7807bc8494 } { fields: undefined }
+Fri, 09 Sep 2016 18:25:48 GMT express:view lookup "contatos/index.ejs"
+Fri, 09 Sep 2016 18:25:48 GMT express:view stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\contatos\index.ejs"
+Fri, 09 Sep 2016 18:25:48 GMT express:view render "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\contatos\index.ejs"
+Fri, 09 Sep 2016 18:25:48 GMT express-session saving GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:25:48 GMT connect:redis SET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY" {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}} ttl:86400
+Fri, 09 Sep 2016 18:25:48 GMT express-session split response
+Fri, 09 Sep 2016 18:25:48 GMT compression gzip compression
+Fri, 09 Sep 2016 18:25:48 GMT connect:redis SET complete
+Fri, 09 Sep 2016 18:25:48 GMT socket.io:server serve client 304
+Fri, 09 Sep 2016 18:25:48 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:25:48 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGCjDL"
+Fri, 09 Sep 2016 18:25:48 GMT engine handshaking client "_YuZP9O2dLhTDSDpAAAA"
+Fri, 09 Sep 2016 18:25:48 GMT engine:socket sending packet "open" ({"sid":"_YuZP9O2dLhTDSDpAAAA","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Fri, 09 Sep 2016 18:25:48 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:25:48 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:25:48 GMT engine:polling writing " 	�0{"sid":"_YuZP9O2dLhTDSDpAAAA","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Fri, 09 Sep 2016 18:25:48 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:25:48 GMT socket.io:server incoming connection with id _YuZP9O2dLhTDSDpAAAA
+Fri, 09 Sep 2016 18:25:48 GMT socket.io:client connecting to namespace /
+Fri, 09 Sep 2016 18:25:48 GMT socket.io:namespace adding socket to nsp /
+Fri, 09 Sep 2016 18:25:48 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:25:48 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:25:48 GMT socket.io:socket socket connected - writing packet
+Fri, 09 Sep 2016 18:25:48 GMT socket.io:socket joining room /#_YuZP9O2dLhTDSDpAAAA
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-redis adding /#_YuZP9O2dLhTDSDpAAAA to /#_YuZP9O2dLhTDSDpAAAA 
+Fri, 09 Sep 2016 18:25:48 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Fri, 09 Sep 2016 18:25:48 GMT engine:socket sending packet "message" (0)
+Fri, 09 Sep 2016 18:25:48 GMT socket.io:socket joined room /#_YuZP9O2dLhTDSDpAAAA
+Fri, 09 Sep 2016 18:25:48 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:25:48 GMT engine:socket sending packet "message" (2["notify-onlines","yuri@email.com"])
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:25:48 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:25:48 GMT engine:socket sending packet "message" (2["notify-onlines","fulano@email.com"])
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:25:48 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:25:48 GMT engine:socket sending packet "message" (2["notify-onlines","batata@email.com"])
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:25:48 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:25:48 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:25:48 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGCjEM&sid=_YuZP9O2dLhTDSDpAAAA"
+Fri, 09 Sep 2016 18:25:48 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:25:48 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:25:48 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:25:48 GMT engine:polling writing " �40 �42["notify-onlines","yuri@email.com"] 	�42["notify-onlines","fulano@email.com"] 	�42["notify-onlines","batata@email.com"]"
+Fri, 09 Sep 2016 18:25:48 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:25:48 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:25:48 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGCjEc&sid=_YuZP9O2dLhTDSDpAAAA"
+Fri, 09 Sep 2016 18:25:48 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:25:48 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:25:48 GMT engine upgrading existing transport
+Fri, 09 Sep 2016 18:25:48 GMT engine:socket might upgrade socket transport from "polling" to "websocket"
+Fri, 09 Sep 2016 18:25:49 GMT engine:ws received "2probe"
+Fri, 09 Sep 2016 18:25:49 GMT engine:ws writing "3probe"
+Fri, 09 Sep 2016 18:25:49 GMT engine:socket writing a noop packet to polling for fast upgrade
+Fri, 09 Sep 2016 18:25:49 GMT engine:polling writing " �6"
+Fri, 09 Sep 2016 18:25:49 GMT engine:ws received "5"
+Fri, 09 Sep 2016 18:25:49 GMT engine:socket got upgrade packet - upgrading
+Fri, 09 Sep 2016 18:25:49 GMT engine:polling closing
+Fri, 09 Sep 2016 18:25:49 GMT engine:polling transport discarded - closing right away
+Fri, 09 Sep 2016 18:26:13 GMT engine:ws received "2"
+Fri, 09 Sep 2016 18:26:13 GMT engine:socket packet
+Fri, 09 Sep 2016 18:26:13 GMT engine:socket got ping
+Fri, 09 Sep 2016 18:26:13 GMT engine:socket sending packet "pong" (undefined)
+Fri, 09 Sep 2016 18:26:13 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:26:13 GMT engine:ws writing "3"
+Fri, 09 Sep 2016 18:26:38 GMT engine:ws received "2"
+Fri, 09 Sep 2016 18:26:38 GMT engine:socket packet
+Fri, 09 Sep 2016 18:26:38 GMT engine:socket got ping
+Fri, 09 Sep 2016 18:26:38 GMT engine:socket sending packet "pong" (undefined)
+Fri, 09 Sep 2016 18:26:38 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:26:38 GMT engine:ws writing "3"
+Fri, 09 Sep 2016 18:27:03 GMT engine:ws received "2"
+Fri, 09 Sep 2016 18:27:03 GMT engine:socket packet
+Fri, 09 Sep 2016 18:27:03 GMT engine:socket got ping
+Fri, 09 Sep 2016 18:27:03 GMT engine:socket sending packet "pong" (undefined)
+Fri, 09 Sep 2016 18:27:03 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:27:03 GMT engine:ws writing "3"
+Fri, 09 Sep 2016 18:27:28 GMT engine:ws received "2"
+Fri, 09 Sep 2016 18:27:28 GMT engine:socket packet
+Fri, 09 Sep 2016 18:27:28 GMT engine:socket got ping
+Fri, 09 Sep 2016 18:27:28 GMT engine:socket sending packet "pong" (undefined)
+Fri, 09 Sep 2016 18:27:28 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:27:28 GMT engine:ws writing "3"
+Fri, 09 Sep 2016 18:27:53 GMT engine:ws received "2"
+Fri, 09 Sep 2016 18:27:53 GMT engine:socket packet
+Fri, 09 Sep 2016 18:27:53 GMT engine:socket got ping
+Fri, 09 Sep 2016 18:27:53 GMT engine:socket sending packet "pong" (undefined)
+Fri, 09 Sep 2016 18:27:53 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:27:53 GMT engine:ws writing "3"
+Fri, 09 Sep 2016 18:28:00 GMT express:router dispatching GET /chat
+Fri, 09 Sep 2016 18:28:00 GMT express:router query  : /chat
+Fri, 09 Sep 2016 18:28:00 GMT express:router expressInit  : /chat
+Fri, 09 Sep 2016 18:28:00 GMT express:router compression  : /chat
+Fri, 09 Sep 2016 18:28:00 GMT express:router cookieParser  : /chat
+Fri, 09 Sep 2016 18:28:00 GMT express:router session  : /chat
+Fri, 09 Sep 2016 18:28:00 GMT express-session fetching GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:28:00 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:28:00 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:28:00 GMT express-session session found
+Fri, 09 Sep 2016 18:28:00 GMT express:router jsonParser  : /chat
+Fri, 09 Sep 2016 18:28:00 GMT express:router urlencodedParser  : /chat
+Fri, 09 Sep 2016 18:28:00 GMT express:router methodOverride  : /chat
+Fri, 09 Sep 2016 18:28:00 GMT express:router serveStatic  : /chat
+Fri, 09 Sep 2016 18:28:00 GMT send stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\public\chat"
+Fri, 09 Sep 2016 18:28:00 GMT express:router csrf  : /chat
+Fri, 09 Sep 2016 18:28:00 GMT express:router <anonymous>  : /chat
+Fri, 09 Sep 2016 18:28:00 GMT express:view lookup "chat/index.ejs"
+Fri, 09 Sep 2016 18:28:00 GMT express:view stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\chat\index.ejs"
+Fri, 09 Sep 2016 18:28:00 GMT express:view render "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\chat\index.ejs"
+Fri, 09 Sep 2016 18:28:00 GMT express-session saving GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:28:00 GMT connect:redis SET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY" {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}} ttl:86400
+Fri, 09 Sep 2016 18:28:00 GMT compression undefined not compressible
+Fri, 09 Sep 2016 18:28:00 GMT compression no compression: filtered
+Fri, 09 Sep 2016 18:28:00 GMT connect:redis SET complete
+Fri, 09 Sep 2016 18:28:00 GMT socket.io:client client close with reason transport close
+Fri, 09 Sep 2016 18:28:00 GMT socket.io:socket closing socket - reason transport close
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-redis removing /#_YuZP9O2dLhTDSDpAAAA from all rooms
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-redis removing /#_YuZP9O2dLhTDSDpAAAA from /#_YuZP9O2dLhTDSDpAAAA
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"} as 2["send-client","<b>Yuri</b> saiu do chat.<br>"]
+Fri, 09 Sep 2016 18:28:00 GMT socket.io:socket leave room undefined
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-redis removing /#_YuZP9O2dLhTDSDpAAAA from undefined
+node_redis: Deprecated: The RPUSH command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Fri, 09 Sep 2016 18:28:00 GMT socket.io:socket left room undefined
+Fri, 09 Sep 2016 18:28:00 GMT socket.io:server serve client 304
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:28:00 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:28:00 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGDDQM"
+Fri, 09 Sep 2016 18:28:00 GMT engine handshaking client "lKGqNqtpQ5H-aDXZAAAB"
+Fri, 09 Sep 2016 18:28:00 GMT engine:socket sending packet "open" ({"sid":"lKGqNqtpQ5H-aDXZAAAB","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Fri, 09 Sep 2016 18:28:00 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:28:00 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:28:00 GMT engine:polling writing " 	�0{"sid":"lKGqNqtpQ5H-aDXZAAAB","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Fri, 09 Sep 2016 18:28:00 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:28:00 GMT socket.io:server incoming connection with id lKGqNqtpQ5H-aDXZAAAB
+Fri, 09 Sep 2016 18:28:00 GMT socket.io:client connecting to namespace /
+Fri, 09 Sep 2016 18:28:00 GMT socket.io:namespace adding socket to nsp /
+Fri, 09 Sep 2016 18:28:00 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:28:00 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io:socket socket connected - writing packet
+Fri, 09 Sep 2016 18:28:00 GMT socket.io:socket joining room /#lKGqNqtpQ5H-aDXZAAAB
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-redis adding /#lKGqNqtpQ5H-aDXZAAAB to /#lKGqNqtpQ5H-aDXZAAAB 
+Fri, 09 Sep 2016 18:28:00 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Fri, 09 Sep 2016 18:28:00 GMT engine:socket sending packet "message" (0)
+Fri, 09 Sep 2016 18:28:00 GMT socket.io:socket joined room /#lKGqNqtpQ5H-aDXZAAAB
+Fri, 09 Sep 2016 18:28:00 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:28:00 GMT engine:socket sending packet "message" (2["notify-onlines","yuri@email.com"])
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:28:00 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:28:00 GMT engine:socket sending packet "message" (2["notify-onlines","fulano@email.com"])
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:28:00 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:28:00 GMT engine:socket sending packet "message" (2["notify-onlines","batata@email.com"])
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:28:00 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:28:00 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGDDRF&sid=lKGqNqtpQ5H-aDXZAAAB"
+Fri, 09 Sep 2016 18:28:00 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:28:00 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:28:00 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:28:00 GMT engine:polling writing " �40 �42["notify-onlines","yuri@email.com"] 	�42["notify-onlines","fulano@email.com"] 	�42["notify-onlines","batata@email.com"]"
+Fri, 09 Sep 2016 18:28:00 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:28:00 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:28:00 GMT engine handling "POST" http request "/socket.io/?EIO=3&transport=polling&t=LSGDDRR&sid=lKGqNqtpQ5H-aDXZAAAB"
+Fri, 09 Sep 2016 18:28:00 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:28:00 GMT engine:polling received "13:42["join",""]"
+Fri, 09 Sep 2016 18:28:00 GMT engine:socket packet
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser decoded 2["join",""] as {"type":2,"nsp":"/","data":["join",""]}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io:socket got packet {"type":2,"nsp":"/","data":["join",""]}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io:socket emitting event ["join",""]
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoding packet {"type":2,"data":["new-chat",{"email":"yuri@email.com","sala":"b9b04921eb77e1922e95e20cf06e8fa3"}],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoded {"type":2,"data":["new-chat",{"email":"yuri@email.com","sala":"b9b04921eb77e1922e95e20cf06e8fa3"}],"nsp":"/"} as 2["new-chat",{"email":"yuri@email.com","sala":"b9b04921eb77e1922e95e20cf06e8fa3"}]
+Fri, 09 Sep 2016 18:28:00 GMT socket.io:socket joining room b9b04921eb77e1922e95e20cf06e8fa3
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-redis adding /#lKGqNqtpQ5H-aDXZAAAB to b9b04921eb77e1922e95e20cf06e8fa3 
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:28:00 GMT socket.io:socket joined room b9b04921eb77e1922e95e20cf06e8fa3
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoding packet {"type":2,"data":["new-chat",{"email":"yuri@email.com","sala":"b9b04921eb77e1922e95e20cf06e8fa3"}],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoded {"type":2,"data":["new-chat",{"email":"yuri@email.com","sala":"b9b04921eb77e1922e95e20cf06e8fa3"}],"nsp":"/"} as 2["new-chat",{"email":"yuri@email.com","sala":"b9b04921eb77e1922e95e20cf06e8fa3"}]
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>Yuri</b> entrou no chat.<br>"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>Yuri</b> entrou no chat.<br>"],"nsp":"/"} as 2["send-client","<b>Yuri</b> entrou no chat.<br>"]
+Fri, 09 Sep 2016 18:28:00 GMT socket.io:client writing packet ["2[\"send-client\",\"<b>Yuri</b> entrou no chat.<br>\"]"]
+Fri, 09 Sep 2016 18:28:00 GMT engine:socket sending packet "message" (2["send-client","<b>Yuri</b> entrou no chat.<br>"])
+Fri, 09 Sep 2016 18:28:00 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:28:00 GMT engine upgrading existing transport
+Fri, 09 Sep 2016 18:28:00 GMT engine:socket might upgrade socket transport from "polling" to "websocket"
+Fri, 09 Sep 2016 18:28:00 GMT engine:ws received "2probe"
+Fri, 09 Sep 2016 18:28:00 GMT engine:ws writing "3probe"
+Fri, 09 Sep 2016 18:28:00 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:28:00 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGDDRT&sid=lKGqNqtpQ5H-aDXZAAAB"
+Fri, 09 Sep 2016 18:28:00 GMT engine:socket client did not complete upgrade - transport closed
+Fri, 09 Sep 2016 18:28:02 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:28:02 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGDDmR"
+Fri, 09 Sep 2016 18:28:02 GMT engine handshaking client "TM3w7JSEXoKHVYqCAAAB"
+Fri, 09 Sep 2016 18:28:02 GMT engine:socket sending packet "open" ({"sid":"TM3w7JSEXoKHVYqCAAAB","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Fri, 09 Sep 2016 18:28:02 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:28:02 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:28:02 GMT engine:polling writing " 	�0{"sid":"TM3w7JSEXoKHVYqCAAAB","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Fri, 09 Sep 2016 18:28:02 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:28:02 GMT socket.io:server incoming connection with id TM3w7JSEXoKHVYqCAAAB
+Fri, 09 Sep 2016 18:28:02 GMT socket.io:client connecting to namespace /
+Fri, 09 Sep 2016 18:28:02 GMT socket.io:namespace adding socket to nsp /
+Fri, 09 Sep 2016 18:28:02 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:28:02 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:28:02 GMT socket.io:socket socket connected - writing packet
+Fri, 09 Sep 2016 18:28:02 GMT socket.io:socket joining room /#TM3w7JSEXoKHVYqCAAAB
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-redis adding /#TM3w7JSEXoKHVYqCAAAB to /#TM3w7JSEXoKHVYqCAAAB 
+Fri, 09 Sep 2016 18:28:02 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Fri, 09 Sep 2016 18:28:02 GMT engine:socket sending packet "message" (0)
+Fri, 09 Sep 2016 18:28:02 GMT socket.io:socket joined room /#TM3w7JSEXoKHVYqCAAAB
+Fri, 09 Sep 2016 18:28:02 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:28:02 GMT engine:socket sending packet "message" (2["notify-onlines","yuri@email.com"])
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:28:02 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:28:02 GMT engine:socket sending packet "message" (2["notify-onlines","fulano@email.com"])
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:28:02 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:28:02 GMT engine:socket sending packet "message" (2["notify-onlines","batata@email.com"])
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:28:02 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"yuri@email.com\"]"]
+Fri, 09 Sep 2016 18:28:02 GMT engine:socket sending packet "message" (2["notify-onlines","yuri@email.com"])
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:28:02 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"fulano@email.com\"]"]
+Fri, 09 Sep 2016 18:28:02 GMT engine:socket sending packet "message" (2["notify-onlines","fulano@email.com"])
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:02 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:28:02 GMT socket.io:client writing packet ["2[\"notify-onlines\",\"batata@email.com\"]"]
+Fri, 09 Sep 2016 18:28:02 GMT engine:socket sending packet "message" (2["notify-onlines","batata@email.com"])
+Fri, 09 Sep 2016 18:28:02 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:28:02 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGDDmu&sid=TM3w7JSEXoKHVYqCAAAB"
+Fri, 09 Sep 2016 18:28:02 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:28:02 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:28:02 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:28:02 GMT engine:polling writing " �40 �42["notify-onlines","yuri@email.com"] 	�42["notify-onlines","fulano@email.com"] 	�42["notify-onlines","batata@email.com"]"
+Fri, 09 Sep 2016 18:28:02 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:28:02 GMT engine upgrading existing transport
+Fri, 09 Sep 2016 18:28:02 GMT engine:socket might upgrade socket transport from "polling" to "websocket"
+Fri, 09 Sep 2016 18:28:02 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:28:02 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGDDn0&sid=TM3w7JSEXoKHVYqCAAAB"
+Fri, 09 Sep 2016 18:28:02 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:28:02 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:28:02 GMT engine:ws received "2probe"
+Fri, 09 Sep 2016 18:28:02 GMT engine:ws writing "3probe"
+Fri, 09 Sep 2016 18:28:02 GMT engine:socket writing a noop packet to polling for fast upgrade
+Fri, 09 Sep 2016 18:28:02 GMT engine:polling writing " �6"
+Fri, 09 Sep 2016 18:28:02 GMT engine:ws received "5"
+Fri, 09 Sep 2016 18:28:02 GMT engine:socket got upgrade packet - upgrading
+Fri, 09 Sep 2016 18:28:02 GMT engine:polling closing
+Fri, 09 Sep 2016 18:28:02 GMT engine:polling transport discarded - closing right away
+Fri, 09 Sep 2016 18:28:12 GMT engine:ws received "42["send-server","sdfgsf"]"
+Fri, 09 Sep 2016 18:28:12 GMT engine:socket packet
+Fri, 09 Sep 2016 18:28:12 GMT socket.io-parser decoded 2["send-server","sdfgsf"] as {"type":2,"nsp":"/","data":["send-server","sdfgsf"]}
+Fri, 09 Sep 2016 18:28:12 GMT socket.io:socket got packet {"type":2,"nsp":"/","data":["send-server","sdfgsf"]}
+Fri, 09 Sep 2016 18:28:12 GMT socket.io:socket emitting event ["send-server","sdfgsf"]
+Fri, 09 Sep 2016 18:28:12 GMT socket.io-parser encoding packet {"type":2,"data":["new-message",{"email":"yuri@email.com"}],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:12 GMT socket.io-parser encoded {"type":2,"data":["new-message",{"email":"yuri@email.com"}],"nsp":"/"} as 2["new-message",{"email":"yuri@email.com"}]
+Fri, 09 Sep 2016 18:28:12 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>Yuri:</b> sdfgsf<br>"],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:12 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>Yuri:</b> sdfgsf<br>"],"nsp":"/"} as 2["send-client","<b>Yuri:</b> sdfgsf<br>"]
+node_redis: Deprecated: The RPUSH command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Fri, 09 Sep 2016 18:28:12 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:28:12 GMT socket.io-parser encoding packet {"type":2,"data":["new-message",{"email":"yuri@email.com"}],"nsp":"/"}
+Fri, 09 Sep 2016 18:28:12 GMT socket.io-parser encoded {"type":2,"data":["new-message",{"email":"yuri@email.com"}],"nsp":"/"} as 2["new-message",{"email":"yuri@email.com"}]
+Fri, 09 Sep 2016 18:28:12 GMT socket.io:client writing packet ["2[\"new-message\",{\"email\":\"yuri@email.com\"}]"]
+Fri, 09 Sep 2016 18:28:12 GMT engine:socket sending packet "message" (2["new-message",{"email":"yuri@email.com"}])
+Fri, 09 Sep 2016 18:28:27 GMT engine:ws received "2"
+Fri, 09 Sep 2016 18:28:27 GMT engine:socket packet
+Fri, 09 Sep 2016 18:28:27 GMT engine:socket got ping
+Fri, 09 Sep 2016 18:28:27 GMT engine:socket sending packet "pong" (undefined)
+Fri, 09 Sep 2016 18:28:27 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:28:27 GMT engine:ws writing "3"
+Fri, 09 Sep 2016 18:28:52 GMT engine:ws received "2"
+Fri, 09 Sep 2016 18:28:52 GMT engine:socket packet
+Fri, 09 Sep 2016 18:28:52 GMT engine:socket got ping
+Fri, 09 Sep 2016 18:28:52 GMT engine:socket sending packet "pong" (undefined)
+Fri, 09 Sep 2016 18:28:52 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:28:52 GMT engine:ws writing "3"
+Fri, 09 Sep 2016 18:29:17 GMT engine:ws received "2"
+Fri, 09 Sep 2016 18:29:17 GMT engine:socket packet
+Fri, 09 Sep 2016 18:29:17 GMT engine:socket got ping
+Fri, 09 Sep 2016 18:29:17 GMT engine:socket sending packet "pong" (undefined)
+Fri, 09 Sep 2016 18:29:17 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:29:17 GMT engine:ws writing "3"
+Fri, 09 Sep 2016 18:29:25 GMT engine:polling closing
+Fri, 09 Sep 2016 18:29:25 GMT engine:polling transport not writable - buffering orderly close
+Fri, 09 Sep 2016 18:29:25 GMT socket.io:client client close with reason ping timeout
+Fri, 09 Sep 2016 18:29:25 GMT socket.io:socket closing socket - reason ping timeout
+Fri, 09 Sep 2016 18:29:25 GMT socket.io-redis removing /#lKGqNqtpQ5H-aDXZAAAB from all rooms
+Fri, 09 Sep 2016 18:29:25 GMT socket.io-redis removing /#lKGqNqtpQ5H-aDXZAAAB from /#lKGqNqtpQ5H-aDXZAAAB
+Fri, 09 Sep 2016 18:29:25 GMT socket.io-redis removing /#lKGqNqtpQ5H-aDXZAAAB from b9b04921eb77e1922e95e20cf06e8fa3
+Fri, 09 Sep 2016 18:29:25 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:29:25 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:29:25 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"}
+Fri, 09 Sep 2016 18:29:25 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"} as 2["send-client","<b>Yuri</b> saiu do chat.<br>"]
+Fri, 09 Sep 2016 18:29:25 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:29:25 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:29:25 GMT socket.io:client writing packet ["2[\"notify-offlines\",\"yuri@email.com\"]"]
+Fri, 09 Sep 2016 18:29:25 GMT engine:socket sending packet "message" (2["notify-offlines","yuri@email.com"])
+Fri, 09 Sep 2016 18:29:25 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:29:25 GMT engine:ws writing "42["notify-offlines","yuri@email.com"]"
+Fri, 09 Sep 2016 18:29:25 GMT socket.io:socket leave room b9b04921eb77e1922e95e20cf06e8fa3
+Fri, 09 Sep 2016 18:29:25 GMT socket.io-redis removing /#lKGqNqtpQ5H-aDXZAAAB from b9b04921eb77e1922e95e20cf06e8fa3
+Fri, 09 Sep 2016 18:29:25 GMT socket.io:socket left room b9b04921eb77e1922e95e20cf06e8fa3
+Fri, 09 Sep 2016 18:29:25 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:29:42 GMT engine:ws received "2"
+Fri, 09 Sep 2016 18:29:42 GMT engine:socket packet
+Fri, 09 Sep 2016 18:29:42 GMT engine:socket got ping
+Fri, 09 Sep 2016 18:29:42 GMT engine:socket sending packet "pong" (undefined)
+Fri, 09 Sep 2016 18:29:42 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:29:42 GMT engine:ws writing "3"
+Fri, 09 Sep 2016 18:30:07 GMT engine:ws received "2"
+Fri, 09 Sep 2016 18:30:07 GMT engine:socket packet
+Fri, 09 Sep 2016 18:30:07 GMT engine:socket got ping
+Fri, 09 Sep 2016 18:30:07 GMT engine:socket sending packet "pong" (undefined)
+Fri, 09 Sep 2016 18:30:07 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:30:07 GMT engine:ws writing "3"
+Fri, 09 Sep 2016 18:30:32 GMT engine:ws received "2"
+Fri, 09 Sep 2016 18:30:32 GMT engine:socket packet
+Fri, 09 Sep 2016 18:30:32 GMT engine:socket got ping
+Fri, 09 Sep 2016 18:30:32 GMT engine:socket sending packet "pong" (undefined)
+Fri, 09 Sep 2016 18:30:32 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:30:32 GMT engine:ws writing "3"
+Fri, 09 Sep 2016 18:30:57 GMT engine:ws received "2"
+Fri, 09 Sep 2016 18:30:57 GMT engine:socket packet
+Fri, 09 Sep 2016 18:30:57 GMT engine:socket got ping
+Fri, 09 Sep 2016 18:30:57 GMT engine:socket sending packet "pong" (undefined)
+Fri, 09 Sep 2016 18:30:57 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:30:57 GMT engine:ws writing "3"
+Fri, 09 Sep 2016 18:31:22 GMT engine:ws received "2"
+Fri, 09 Sep 2016 18:31:22 GMT engine:socket packet
+Fri, 09 Sep 2016 18:31:22 GMT engine:socket got ping
+Fri, 09 Sep 2016 18:31:22 GMT engine:socket sending packet "pong" (undefined)
+Fri, 09 Sep 2016 18:31:22 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:31:22 GMT engine:ws writing "3"
+Fri, 09 Sep 2016 18:31:47 GMT engine:ws received "2"
+Fri, 09 Sep 2016 18:31:47 GMT engine:socket packet
+Fri, 09 Sep 2016 18:31:47 GMT engine:socket got ping
+Fri, 09 Sep 2016 18:31:47 GMT engine:socket sending packet "pong" (undefined)
+Fri, 09 Sep 2016 18:31:47 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:31:47 GMT engine:ws writing "3"
+Fri, 09 Sep 2016 18:32:12 GMT engine:ws received "2"
+Fri, 09 Sep 2016 18:32:12 GMT engine:socket packet
+Fri, 09 Sep 2016 18:32:12 GMT engine:socket got ping
+Fri, 09 Sep 2016 18:32:12 GMT engine:socket sending packet "pong" (undefined)
+Fri, 09 Sep 2016 18:32:12 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:32:12 GMT engine:ws writing "3"
+Fri, 09 Sep 2016 18:32:37 GMT engine:ws received "2"
+Fri, 09 Sep 2016 18:32:37 GMT engine:socket packet
+Fri, 09 Sep 2016 18:32:37 GMT engine:socket got ping
+Fri, 09 Sep 2016 18:32:37 GMT engine:socket sending packet "pong" (undefined)
+Fri, 09 Sep 2016 18:32:37 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:32:37 GMT engine:ws writing "3"
+Fri, 09 Sep 2016 18:32:58 GMT express:router dispatching GET /contatos
+Fri, 09 Sep 2016 18:32:58 GMT express:router query  : /contatos
+Fri, 09 Sep 2016 18:32:58 GMT express:router expressInit  : /contatos
+Fri, 09 Sep 2016 18:32:58 GMT express:router compression  : /contatos
+Fri, 09 Sep 2016 18:32:58 GMT express:router cookieParser  : /contatos
+Fri, 09 Sep 2016 18:32:58 GMT express:router session  : /contatos
+Fri, 09 Sep 2016 18:32:58 GMT express-session fetching GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:32:58 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:32:58 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:32:58 GMT express-session session found
+Fri, 09 Sep 2016 18:32:58 GMT express:router jsonParser  : /contatos
+Fri, 09 Sep 2016 18:32:58 GMT express:router urlencodedParser  : /contatos
+Fri, 09 Sep 2016 18:32:58 GMT express:router methodOverride  : /contatos
+Fri, 09 Sep 2016 18:32:58 GMT express:router serveStatic  : /contatos
+Fri, 09 Sep 2016 18:32:58 GMT send stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\public\contatos"
+Fri, 09 Sep 2016 18:32:58 GMT express:router csrf  : /contatos
+Fri, 09 Sep 2016 18:32:58 GMT express:router <anonymous>  : /contatos
+Fri, 09 Sep 2016 18:32:58 GMT mquery findOne usuarios { _id: 57c9c9886597ba7807bc8494 } { fields: undefined }
+Fri, 09 Sep 2016 18:32:58 GMT express:view lookup "contatos/index.ejs"
+Fri, 09 Sep 2016 18:32:58 GMT express:view stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\contatos\index.ejs"
+Fri, 09 Sep 2016 18:32:58 GMT express:view render "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\contatos\index.ejs"
+Fri, 09 Sep 2016 18:32:58 GMT express-session saving GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:32:58 GMT connect:redis SET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY" {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}} ttl:86400
+Fri, 09 Sep 2016 18:32:58 GMT express-session split response
+Fri, 09 Sep 2016 18:32:58 GMT compression gzip compression
+Fri, 09 Sep 2016 18:32:58 GMT connect:redis SET complete
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:client client close with reason transport close
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:socket closing socket - reason transport close
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-redis removing /#TM3w7JSEXoKHVYqCAAAB from all rooms
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-redis removing /#TM3w7JSEXoKHVYqCAAAB from /#TM3w7JSEXoKHVYqCAAAB
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"} as 2["send-client","<b>Yuri</b> saiu do chat.<br>"]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:socket leave room undefined
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-redis removing /#TM3w7JSEXoKHVYqCAAAB from undefined
+node_redis: Deprecated: The RPUSH command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:socket left room undefined
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:server serve client 304
+Fri, 09 Sep 2016 18:32:58 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:32:58 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGEM5b"
+Fri, 09 Sep 2016 18:32:58 GMT engine handshaking client "5_oKZudchGB3lKVrAAAC"
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket sending packet "open" ({"sid":"5_oKZudchGB3lKVrAAAC","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Fri, 09 Sep 2016 18:32:58 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:32:58 GMT engine:polling writing " 	�0{"sid":"5_oKZudchGB3lKVrAAAC","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:server incoming connection with id 5_oKZudchGB3lKVrAAAC
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:client connecting to namespace /
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:namespace adding socket to nsp /
+Fri, 09 Sep 2016 18:32:58 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:32:58 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:socket socket connected - writing packet
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:socket joining room /#5_oKZudchGB3lKVrAAAC
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-redis adding /#5_oKZudchGB3lKVrAAAC to /#5_oKZudchGB3lKVrAAAC 
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket sending packet "message" (0)
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:socket joined room /#5_oKZudchGB3lKVrAAAC
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket sending packet "message" (2["notify-onlines","yuri@email.com"])
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket sending packet "message" (2["notify-onlines","fulano@email.com"])
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket sending packet "message" (2["notify-onlines","batata@email.com"])
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:32:58 GMT engine upgrading existing transport
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket might upgrade socket transport from "polling" to "websocket"
+Fri, 09 Sep 2016 18:32:58 GMT engine:ws received "2probe"
+Fri, 09 Sep 2016 18:32:58 GMT engine:ws writing "3probe"
+Fri, 09 Sep 2016 18:32:58 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:32:58 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGEM6J&sid=5_oKZudchGB3lKVrAAAC"
+Fri, 09 Sep 2016 18:32:58 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:32:58 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:32:58 GMT engine:polling writing " �40 �42["notify-onlines","yuri@email.com"] 	�42["notify-onlines","fulano@email.com"] 	�42["notify-onlines","batata@email.com"]"
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:32:58 GMT engine:ws received "5"
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket got upgrade packet - upgrading
+Fri, 09 Sep 2016 18:32:58 GMT engine:polling closing
+Fri, 09 Sep 2016 18:32:58 GMT engine:polling transport discarded - closing right away
+Fri, 09 Sep 2016 18:32:58 GMT express:router dispatching GET /chat
+Fri, 09 Sep 2016 18:32:58 GMT express:router query  : /chat
+Fri, 09 Sep 2016 18:32:58 GMT express:router expressInit  : /chat
+Fri, 09 Sep 2016 18:32:58 GMT express:router compression  : /chat
+Fri, 09 Sep 2016 18:32:58 GMT express:router cookieParser  : /chat
+Fri, 09 Sep 2016 18:32:58 GMT express:router session  : /chat
+Fri, 09 Sep 2016 18:32:58 GMT express-session fetching GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:32:58 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:32:58 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:32:58 GMT express-session session found
+Fri, 09 Sep 2016 18:32:58 GMT express:router jsonParser  : /chat
+Fri, 09 Sep 2016 18:32:58 GMT express:router urlencodedParser  : /chat
+Fri, 09 Sep 2016 18:32:58 GMT express:router methodOverride  : /chat
+Fri, 09 Sep 2016 18:32:58 GMT express:router serveStatic  : /chat
+Fri, 09 Sep 2016 18:32:58 GMT send stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\public\chat"
+Fri, 09 Sep 2016 18:32:58 GMT express:router csrf  : /chat
+Fri, 09 Sep 2016 18:32:58 GMT express:router <anonymous>  : /chat
+Fri, 09 Sep 2016 18:32:58 GMT express:view lookup "chat/index.ejs"
+Fri, 09 Sep 2016 18:32:58 GMT express:view stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\chat\index.ejs"
+Fri, 09 Sep 2016 18:32:58 GMT express:view render "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\chat\index.ejs"
+Fri, 09 Sep 2016 18:32:58 GMT express-session saving GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:32:58 GMT connect:redis SET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY" {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}} ttl:86400
+Fri, 09 Sep 2016 18:32:58 GMT compression undefined not compressible
+Fri, 09 Sep 2016 18:32:58 GMT compression no compression: filtered
+Fri, 09 Sep 2016 18:32:58 GMT connect:redis SET complete
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:client client close with reason transport close
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:socket closing socket - reason transport close
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-redis removing /#5_oKZudchGB3lKVrAAAC from all rooms
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-redis removing /#5_oKZudchGB3lKVrAAAC from /#5_oKZudchGB3lKVrAAAC
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"} as 2["send-client","<b>Yuri</b> saiu do chat.<br>"]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:socket leave room undefined
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-redis removing /#5_oKZudchGB3lKVrAAAC from undefined
+node_redis: Deprecated: The RPUSH command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:socket left room undefined
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:server serve client 304
+Fri, 09 Sep 2016 18:32:58 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:32:58 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGEMB8"
+Fri, 09 Sep 2016 18:32:58 GMT engine handshaking client "M7p0PnH5uUj4wCVQAAAD"
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket sending packet "open" ({"sid":"M7p0PnH5uUj4wCVQAAAD","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Fri, 09 Sep 2016 18:32:58 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:32:58 GMT engine:polling writing " 	�0{"sid":"M7p0PnH5uUj4wCVQAAAD","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:server incoming connection with id M7p0PnH5uUj4wCVQAAAD
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:client connecting to namespace /
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:namespace adding socket to nsp /
+Fri, 09 Sep 2016 18:32:58 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:32:58 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:socket socket connected - writing packet
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:socket joining room /#M7p0PnH5uUj4wCVQAAAD
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-redis adding /#M7p0PnH5uUj4wCVQAAAD to /#M7p0PnH5uUj4wCVQAAAD 
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket sending packet "message" (0)
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:socket joined room /#M7p0PnH5uUj4wCVQAAAD
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket sending packet "message" (2["notify-onlines","yuri@email.com"])
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket sending packet "message" (2["notify-onlines","fulano@email.com"])
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket sending packet "message" (2["notify-onlines","batata@email.com"])
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:32:58 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:32:58 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGEMBY&sid=M7p0PnH5uUj4wCVQAAAD"
+Fri, 09 Sep 2016 18:32:58 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:32:58 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:32:58 GMT engine:polling writing " �40 �42["notify-onlines","yuri@email.com"] 	�42["notify-onlines","fulano@email.com"] 	�42["notify-onlines","batata@email.com"]"
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:32:58 GMT engine upgrading existing transport
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket might upgrade socket transport from "polling" to "websocket"
+Fri, 09 Sep 2016 18:32:58 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:32:58 GMT engine handling "POST" http request "/socket.io/?EIO=3&transport=polling&t=LSGEMBx&sid=M7p0PnH5uUj4wCVQAAAD"
+Fri, 09 Sep 2016 18:32:58 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:32:58 GMT engine:polling received "13:42["join",""]"
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket packet
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser decoded 2["join",""] as {"type":2,"nsp":"/","data":["join",""]}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:socket got packet {"type":2,"nsp":"/","data":["join",""]}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:socket emitting event ["join",""]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["new-chat",{"email":"yuri@email.com","sala":"39f81ca6feb0c05f632f86bfea586544"}],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["new-chat",{"email":"yuri@email.com","sala":"39f81ca6feb0c05f632f86bfea586544"}],"nsp":"/"} as 2["new-chat",{"email":"yuri@email.com","sala":"39f81ca6feb0c05f632f86bfea586544"}]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:socket joining room 39f81ca6feb0c05f632f86bfea586544
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-redis adding /#M7p0PnH5uUj4wCVQAAAD to 39f81ca6feb0c05f632f86bfea586544 
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["new-chat",{"email":"yuri@email.com","sala":"39f81ca6feb0c05f632f86bfea586544"}],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["new-chat",{"email":"yuri@email.com","sala":"39f81ca6feb0c05f632f86bfea586544"}],"nsp":"/"} as 2["new-chat",{"email":"yuri@email.com","sala":"39f81ca6feb0c05f632f86bfea586544"}]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>Yuri</b> entrou no chat.<br>"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>Yuri</b> entrou no chat.<br>"],"nsp":"/"} as 2["send-client","<b>Yuri</b> entrou no chat.<br>"]
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:client writing packet ["2[\"send-client\",\"<b>Yuri</b> entrou no chat.<br>\"]"]
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket sending packet "message" (2["send-client","<b>Yuri</b> entrou no chat.<br>"])
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:32:58 GMT socket.io:socket joined room 39f81ca6feb0c05f632f86bfea586544
+Fri, 09 Sep 2016 18:32:58 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:32:58 GMT engine:ws received "2probe"
+Fri, 09 Sep 2016 18:32:58 GMT engine:ws writing "3probe"
+Fri, 09 Sep 2016 18:32:58 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:32:58 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGEMBz&sid=M7p0PnH5uUj4wCVQAAAD"
+Fri, 09 Sep 2016 18:32:58 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:32:58 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:32:58 GMT engine:polling writing " �42["send-client","<b>Yuri</b> entrou no chat.<br>"]"
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:32:58 GMT engine:ws received "5"
+Fri, 09 Sep 2016 18:32:58 GMT engine:socket got upgrade packet - upgrading
+Fri, 09 Sep 2016 18:32:58 GMT engine:polling closing
+Fri, 09 Sep 2016 18:32:58 GMT engine:polling transport discarded - closing right away
+Fri, 09 Sep 2016 18:32:59 GMT express:router dispatching GET /contatos
+Fri, 09 Sep 2016 18:32:59 GMT express:router query  : /contatos
+Fri, 09 Sep 2016 18:32:59 GMT express:router expressInit  : /contatos
+Fri, 09 Sep 2016 18:32:59 GMT express:router compression  : /contatos
+Fri, 09 Sep 2016 18:32:59 GMT express:router cookieParser  : /contatos
+Fri, 09 Sep 2016 18:32:59 GMT express:router session  : /contatos
+Fri, 09 Sep 2016 18:32:59 GMT express-session fetching GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:32:59 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:32:59 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:32:59 GMT express-session session found
+Fri, 09 Sep 2016 18:32:59 GMT express:router jsonParser  : /contatos
+Fri, 09 Sep 2016 18:32:59 GMT express:router urlencodedParser  : /contatos
+Fri, 09 Sep 2016 18:32:59 GMT express:router methodOverride  : /contatos
+Fri, 09 Sep 2016 18:32:59 GMT express:router serveStatic  : /contatos
+Fri, 09 Sep 2016 18:32:59 GMT send stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\public\contatos"
+Fri, 09 Sep 2016 18:32:59 GMT express:router csrf  : /contatos
+Fri, 09 Sep 2016 18:32:59 GMT express:router <anonymous>  : /contatos
+Fri, 09 Sep 2016 18:32:59 GMT mquery findOne usuarios { _id: 57c9c9886597ba7807bc8494 } { fields: undefined }
+Fri, 09 Sep 2016 18:32:59 GMT express:view lookup "contatos/index.ejs"
+Fri, 09 Sep 2016 18:32:59 GMT express:view stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\contatos\index.ejs"
+Fri, 09 Sep 2016 18:32:59 GMT express:view render "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\contatos\index.ejs"
+Fri, 09 Sep 2016 18:32:59 GMT express-session saving GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:32:59 GMT connect:redis SET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY" {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}} ttl:86400
+Fri, 09 Sep 2016 18:32:59 GMT express-session split response
+Fri, 09 Sep 2016 18:32:59 GMT compression gzip compression
+Fri, 09 Sep 2016 18:32:59 GMT connect:redis SET complete
+Fri, 09 Sep 2016 18:32:59 GMT socket.io:client client close with reason transport close
+Fri, 09 Sep 2016 18:32:59 GMT socket.io:socket closing socket - reason transport close
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-redis removing /#M7p0PnH5uUj4wCVQAAAD from all rooms
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-redis removing /#M7p0PnH5uUj4wCVQAAAD from /#M7p0PnH5uUj4wCVQAAAD
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-redis removing /#M7p0PnH5uUj4wCVQAAAD from 39f81ca6feb0c05f632f86bfea586544
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"} as 2["send-client","<b>Yuri</b> saiu do chat.<br>"]
+Fri, 09 Sep 2016 18:32:59 GMT socket.io:socket leave room 39f81ca6feb0c05f632f86bfea586544
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-redis removing /#M7p0PnH5uUj4wCVQAAAD from 39f81ca6feb0c05f632f86bfea586544
+Fri, 09 Sep 2016 18:32:59 GMT socket.io:socket left room 39f81ca6feb0c05f632f86bfea586544
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:32:59 GMT socket.io:server serve client 304
+Fri, 09 Sep 2016 18:32:59 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:32:59 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGEMS6"
+Fri, 09 Sep 2016 18:32:59 GMT engine handshaking client "gSWPDbm6cuthiziWAAAE"
+Fri, 09 Sep 2016 18:32:59 GMT engine:socket sending packet "open" ({"sid":"gSWPDbm6cuthiziWAAAE","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Fri, 09 Sep 2016 18:32:59 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:32:59 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:32:59 GMT engine:polling writing " 	�0{"sid":"gSWPDbm6cuthiziWAAAE","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Fri, 09 Sep 2016 18:32:59 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:32:59 GMT socket.io:server incoming connection with id gSWPDbm6cuthiziWAAAE
+Fri, 09 Sep 2016 18:32:59 GMT socket.io:client connecting to namespace /
+Fri, 09 Sep 2016 18:32:59 GMT socket.io:namespace adding socket to nsp /
+Fri, 09 Sep 2016 18:32:59 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:32:59 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:32:59 GMT socket.io:socket socket connected - writing packet
+Fri, 09 Sep 2016 18:32:59 GMT socket.io:socket joining room /#gSWPDbm6cuthiziWAAAE
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-redis adding /#gSWPDbm6cuthiziWAAAE to /#gSWPDbm6cuthiziWAAAE 
+Fri, 09 Sep 2016 18:32:59 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Fri, 09 Sep 2016 18:32:59 GMT engine:socket sending packet "message" (0)
+Fri, 09 Sep 2016 18:32:59 GMT socket.io:socket joined room /#gSWPDbm6cuthiziWAAAE
+Fri, 09 Sep 2016 18:32:59 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:32:59 GMT engine:socket sending packet "message" (2["notify-onlines","yuri@email.com"])
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:32:59 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:32:59 GMT engine:socket sending packet "message" (2["notify-onlines","fulano@email.com"])
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:59 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:32:59 GMT engine:socket sending packet "message" (2["notify-onlines","batata@email.com"])
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:32:59 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:32:59 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:32:59 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGEMSl&sid=gSWPDbm6cuthiziWAAAE"
+Fri, 09 Sep 2016 18:32:59 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:32:59 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:32:59 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:32:59 GMT engine:polling writing " �40 �42["notify-onlines","yuri@email.com"] 	�42["notify-onlines","fulano@email.com"] 	�42["notify-onlines","batata@email.com"]"
+Fri, 09 Sep 2016 18:32:59 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:32:59 GMT engine upgrading existing transport
+Fri, 09 Sep 2016 18:32:59 GMT engine:socket might upgrade socket transport from "polling" to "websocket"
+Fri, 09 Sep 2016 18:32:59 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:32:59 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGEMSu&sid=gSWPDbm6cuthiziWAAAE"
+Fri, 09 Sep 2016 18:32:59 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:32:59 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:32:59 GMT engine:ws received "2probe"
+Fri, 09 Sep 2016 18:32:59 GMT engine:ws writing "3probe"
+Fri, 09 Sep 2016 18:33:00 GMT engine:socket writing a noop packet to polling for fast upgrade
+Fri, 09 Sep 2016 18:33:00 GMT engine:polling writing " �6"
+Fri, 09 Sep 2016 18:33:00 GMT engine:ws received "5"
+Fri, 09 Sep 2016 18:33:00 GMT engine:socket got upgrade packet - upgrading
+Fri, 09 Sep 2016 18:33:00 GMT engine:polling closing
+Fri, 09 Sep 2016 18:33:00 GMT engine:polling transport discarded - closing right away
+Fri, 09 Sep 2016 18:33:01 GMT express:router dispatching GET /chat
+Fri, 09 Sep 2016 18:33:01 GMT express:router query  : /chat
+Fri, 09 Sep 2016 18:33:01 GMT express:router expressInit  : /chat
+Fri, 09 Sep 2016 18:33:01 GMT express:router compression  : /chat
+Fri, 09 Sep 2016 18:33:01 GMT express:router cookieParser  : /chat
+Fri, 09 Sep 2016 18:33:01 GMT express:router session  : /chat
+Fri, 09 Sep 2016 18:33:01 GMT express-session fetching GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:33:01 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:33:01 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:33:01 GMT express-session session found
+Fri, 09 Sep 2016 18:33:01 GMT express:router jsonParser  : /chat
+Fri, 09 Sep 2016 18:33:01 GMT express:router urlencodedParser  : /chat
+Fri, 09 Sep 2016 18:33:01 GMT express:router methodOverride  : /chat
+Fri, 09 Sep 2016 18:33:01 GMT express:router serveStatic  : /chat
+Fri, 09 Sep 2016 18:33:01 GMT send stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\public\chat"
+Fri, 09 Sep 2016 18:33:01 GMT express:router csrf  : /chat
+Fri, 09 Sep 2016 18:33:01 GMT express:router <anonymous>  : /chat
+Fri, 09 Sep 2016 18:33:01 GMT express:view lookup "chat/index.ejs"
+Fri, 09 Sep 2016 18:33:01 GMT express:view stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\chat\index.ejs"
+Fri, 09 Sep 2016 18:33:01 GMT express:view render "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\chat\index.ejs"
+Fri, 09 Sep 2016 18:33:01 GMT express-session saving GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:33:01 GMT connect:redis SET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY" {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}} ttl:86400
+Fri, 09 Sep 2016 18:33:01 GMT compression undefined not compressible
+Fri, 09 Sep 2016 18:33:01 GMT compression no compression: filtered
+Fri, 09 Sep 2016 18:33:01 GMT connect:redis SET complete
+Fri, 09 Sep 2016 18:33:01 GMT socket.io:client client close with reason transport close
+Fri, 09 Sep 2016 18:33:01 GMT socket.io:socket closing socket - reason transport close
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-redis removing /#gSWPDbm6cuthiziWAAAE from all rooms
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-redis removing /#gSWPDbm6cuthiziWAAAE from /#gSWPDbm6cuthiziWAAAE
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"} as 2["send-client","<b>Yuri</b> saiu do chat.<br>"]
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:01 GMT socket.io:socket leave room undefined
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-redis removing /#gSWPDbm6cuthiziWAAAE from undefined
+node_redis: Deprecated: The RPUSH command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Fri, 09 Sep 2016 18:33:01 GMT socket.io:socket left room undefined
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:01 GMT socket.io:server serve client 304
+Fri, 09 Sep 2016 18:33:01 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:33:01 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGEMmK"
+Fri, 09 Sep 2016 18:33:01 GMT engine handshaking client "6LphTssnApY6apc6AAAF"
+Fri, 09 Sep 2016 18:33:01 GMT engine:socket sending packet "open" ({"sid":"6LphTssnApY6apc6AAAF","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Fri, 09 Sep 2016 18:33:01 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:33:01 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:33:01 GMT engine:polling writing " 	�0{"sid":"6LphTssnApY6apc6AAAF","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Fri, 09 Sep 2016 18:33:01 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:33:01 GMT socket.io:server incoming connection with id 6LphTssnApY6apc6AAAF
+Fri, 09 Sep 2016 18:33:01 GMT socket.io:client connecting to namespace /
+Fri, 09 Sep 2016 18:33:01 GMT socket.io:namespace adding socket to nsp /
+Fri, 09 Sep 2016 18:33:01 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:33:01 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io:socket socket connected - writing packet
+Fri, 09 Sep 2016 18:33:01 GMT socket.io:socket joining room /#6LphTssnApY6apc6AAAF
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-redis adding /#6LphTssnApY6apc6AAAF to /#6LphTssnApY6apc6AAAF 
+Fri, 09 Sep 2016 18:33:01 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Fri, 09 Sep 2016 18:33:01 GMT engine:socket sending packet "message" (0)
+Fri, 09 Sep 2016 18:33:01 GMT socket.io:socket joined room /#6LphTssnApY6apc6AAAF
+Fri, 09 Sep 2016 18:33:01 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:01 GMT engine:socket sending packet "message" (2["notify-onlines","yuri@email.com"])
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:01 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:33:01 GMT engine:socket sending packet "message" (2["notify-onlines","fulano@email.com"])
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:33:01 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:01 GMT engine:socket sending packet "message" (2["notify-onlines","batata@email.com"])
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:01 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:33:01 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGEMmt&sid=6LphTssnApY6apc6AAAF"
+Fri, 09 Sep 2016 18:33:01 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:33:01 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:33:01 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:33:01 GMT engine:polling writing " �40 �42["notify-onlines","yuri@email.com"] 	�42["notify-onlines","fulano@email.com"] 	�42["notify-onlines","batata@email.com"]"
+Fri, 09 Sep 2016 18:33:01 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:33:01 GMT engine upgrading existing transport
+Fri, 09 Sep 2016 18:33:01 GMT engine:socket might upgrade socket transport from "polling" to "websocket"
+Fri, 09 Sep 2016 18:33:01 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:33:01 GMT engine handling "POST" http request "/socket.io/?EIO=3&transport=polling&t=LSGEMm-&sid=6LphTssnApY6apc6AAAF"
+Fri, 09 Sep 2016 18:33:01 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:33:01 GMT engine:polling received "13:42["join",""]"
+Fri, 09 Sep 2016 18:33:01 GMT engine:socket packet
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser decoded 2["join",""] as {"type":2,"nsp":"/","data":["join",""]}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io:socket got packet {"type":2,"nsp":"/","data":["join",""]}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io:socket emitting event ["join",""]
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoding packet {"type":2,"data":["new-chat",{"email":"yuri@email.com","sala":"96145006decaa6e80730cd7b52215fbd"}],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoded {"type":2,"data":["new-chat",{"email":"yuri@email.com","sala":"96145006decaa6e80730cd7b52215fbd"}],"nsp":"/"} as 2["new-chat",{"email":"yuri@email.com","sala":"96145006decaa6e80730cd7b52215fbd"}]
+Fri, 09 Sep 2016 18:33:01 GMT socket.io:socket joining room 96145006decaa6e80730cd7b52215fbd
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-redis adding /#6LphTssnApY6apc6AAAF to 96145006decaa6e80730cd7b52215fbd 
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>Yuri</b> entrou no chat.<br>"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>Yuri</b> entrou no chat.<br>"],"nsp":"/"} as 2["send-client","<b>Yuri</b> entrou no chat.<br>"]
+Fri, 09 Sep 2016 18:33:01 GMT socket.io:client writing packet ["2[\"send-client\",\"<b>Yuri</b> entrou no chat.<br>\"]"]
+Fri, 09 Sep 2016 18:33:01 GMT engine:socket sending packet "message" (2["send-client","<b>Yuri</b> entrou no chat.<br>"])
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoding packet {"type":2,"data":["new-chat",{"email":"yuri@email.com","sala":"96145006decaa6e80730cd7b52215fbd"}],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-parser encoded {"type":2,"data":["new-chat",{"email":"yuri@email.com","sala":"96145006decaa6e80730cd7b52215fbd"}],"nsp":"/"} as 2["new-chat",{"email":"yuri@email.com","sala":"96145006decaa6e80730cd7b52215fbd"}]
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:01 GMT socket.io:socket joined room 96145006decaa6e80730cd7b52215fbd
+Fri, 09 Sep 2016 18:33:01 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:01 GMT engine:ws received "2probe"
+Fri, 09 Sep 2016 18:33:01 GMT engine:ws writing "3probe"
+Fri, 09 Sep 2016 18:33:01 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:33:01 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGEMn2&sid=6LphTssnApY6apc6AAAF"
+Fri, 09 Sep 2016 18:33:01 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:33:01 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:33:01 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:33:01 GMT engine:polling writing " �42["send-client","<b>Yuri</b> entrou no chat.<br>"]"
+Fri, 09 Sep 2016 18:33:01 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:33:01 GMT engine:ws received "5"
+Fri, 09 Sep 2016 18:33:01 GMT engine:socket got upgrade packet - upgrading
+Fri, 09 Sep 2016 18:33:01 GMT engine:polling closing
+Fri, 09 Sep 2016 18:33:01 GMT engine:polling transport discarded - closing right away
+Fri, 09 Sep 2016 18:33:02 GMT express:router dispatching GET /contatos
+Fri, 09 Sep 2016 18:33:02 GMT express:router query  : /contatos
+Fri, 09 Sep 2016 18:33:02 GMT express:router expressInit  : /contatos
+Fri, 09 Sep 2016 18:33:02 GMT express:router compression  : /contatos
+Fri, 09 Sep 2016 18:33:02 GMT express:router cookieParser  : /contatos
+Fri, 09 Sep 2016 18:33:02 GMT express:router session  : /contatos
+Fri, 09 Sep 2016 18:33:02 GMT express-session fetching GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:33:02 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:33:02 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:33:02 GMT express-session session found
+Fri, 09 Sep 2016 18:33:02 GMT express:router jsonParser  : /contatos
+Fri, 09 Sep 2016 18:33:02 GMT express:router urlencodedParser  : /contatos
+Fri, 09 Sep 2016 18:33:02 GMT express:router methodOverride  : /contatos
+Fri, 09 Sep 2016 18:33:02 GMT express:router serveStatic  : /contatos
+Fri, 09 Sep 2016 18:33:02 GMT send stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\public\contatos"
+Fri, 09 Sep 2016 18:33:02 GMT express:router csrf  : /contatos
+Fri, 09 Sep 2016 18:33:02 GMT express:router <anonymous>  : /contatos
+Fri, 09 Sep 2016 18:33:02 GMT mquery findOne usuarios { _id: 57c9c9886597ba7807bc8494 } { fields: undefined }
+Fri, 09 Sep 2016 18:33:02 GMT express:view lookup "contatos/index.ejs"
+Fri, 09 Sep 2016 18:33:02 GMT express:view stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\contatos\index.ejs"
+Fri, 09 Sep 2016 18:33:02 GMT express:view render "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\contatos\index.ejs"
+Fri, 09 Sep 2016 18:33:02 GMT express-session saving GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:33:02 GMT connect:redis SET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY" {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}} ttl:86400
+Fri, 09 Sep 2016 18:33:02 GMT express-session split response
+Fri, 09 Sep 2016 18:33:02 GMT compression gzip compression
+Fri, 09 Sep 2016 18:33:02 GMT connect:redis SET complete
+Fri, 09 Sep 2016 18:33:02 GMT socket.io:client client close with reason transport close
+Fri, 09 Sep 2016 18:33:02 GMT socket.io:socket closing socket - reason transport close
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-redis removing /#6LphTssnApY6apc6AAAF from all rooms
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-redis removing /#6LphTssnApY6apc6AAAF from /#6LphTssnApY6apc6AAAF
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-redis removing /#6LphTssnApY6apc6AAAF from 96145006decaa6e80730cd7b52215fbd
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"} as 2["send-client","<b>Yuri</b> saiu do chat.<br>"]
+Fri, 09 Sep 2016 18:33:02 GMT socket.io:socket leave room 96145006decaa6e80730cd7b52215fbd
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-redis removing /#6LphTssnApY6apc6AAAF from 96145006decaa6e80730cd7b52215fbd
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:02 GMT socket.io:socket left room 96145006decaa6e80730cd7b52215fbd
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:02 GMT socket.io:server serve client 304
+Fri, 09 Sep 2016 18:33:02 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:33:02 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGEM_r"
+Fri, 09 Sep 2016 18:33:02 GMT engine handshaking client "8tqAsjMMk46K42ACAAAG"
+Fri, 09 Sep 2016 18:33:02 GMT engine:socket sending packet "open" ({"sid":"8tqAsjMMk46K42ACAAAG","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Fri, 09 Sep 2016 18:33:02 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:33:02 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:33:02 GMT engine:polling writing " 	�0{"sid":"8tqAsjMMk46K42ACAAAG","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Fri, 09 Sep 2016 18:33:02 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:33:02 GMT socket.io:server incoming connection with id 8tqAsjMMk46K42ACAAAG
+Fri, 09 Sep 2016 18:33:02 GMT socket.io:client connecting to namespace /
+Fri, 09 Sep 2016 18:33:02 GMT socket.io:namespace adding socket to nsp /
+Fri, 09 Sep 2016 18:33:02 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:33:02 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:33:02 GMT socket.io:socket socket connected - writing packet
+Fri, 09 Sep 2016 18:33:02 GMT socket.io:socket joining room /#8tqAsjMMk46K42ACAAAG
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-redis adding /#8tqAsjMMk46K42ACAAAG to /#8tqAsjMMk46K42ACAAAG 
+Fri, 09 Sep 2016 18:33:02 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Fri, 09 Sep 2016 18:33:02 GMT engine:socket sending packet "message" (0)
+Fri, 09 Sep 2016 18:33:02 GMT socket.io:socket joined room /#8tqAsjMMk46K42ACAAAG
+Fri, 09 Sep 2016 18:33:02 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:02 GMT engine:socket sending packet "message" (2["notify-onlines","yuri@email.com"])
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:02 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:33:02 GMT engine:socket sending packet "message" (2["notify-onlines","fulano@email.com"])
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:33:02 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:33:02 GMT engine:socket sending packet "message" (2["notify-onlines","batata@email.com"])
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:02 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:33:02 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:33:02 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGEN0O&sid=8tqAsjMMk46K42ACAAAG"
+Fri, 09 Sep 2016 18:33:02 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:33:02 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:33:02 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:33:02 GMT engine:polling writing " �40 �42["notify-onlines","yuri@email.com"] 	�42["notify-onlines","fulano@email.com"] 	�42["notify-onlines","batata@email.com"]"
+Fri, 09 Sep 2016 18:33:02 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:33:02 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:33:02 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGEN0W&sid=8tqAsjMMk46K42ACAAAG"
+Fri, 09 Sep 2016 18:33:02 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:33:02 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:33:02 GMT engine upgrading existing transport
+Fri, 09 Sep 2016 18:33:02 GMT engine:socket might upgrade socket transport from "polling" to "websocket"
+Fri, 09 Sep 2016 18:33:02 GMT engine:ws received "2probe"
+Fri, 09 Sep 2016 18:33:02 GMT engine:ws writing "3probe"
+Fri, 09 Sep 2016 18:33:02 GMT engine:socket writing a noop packet to polling for fast upgrade
+Fri, 09 Sep 2016 18:33:02 GMT engine:polling writing " �6"
+Fri, 09 Sep 2016 18:33:02 GMT engine:ws received "5"
+Fri, 09 Sep 2016 18:33:02 GMT engine:socket got upgrade packet - upgrading
+Fri, 09 Sep 2016 18:33:02 GMT engine:polling closing
+Fri, 09 Sep 2016 18:33:02 GMT engine:polling transport discarded - closing right away
+Fri, 09 Sep 2016 18:33:03 GMT express:router dispatching GET /chat
+Fri, 09 Sep 2016 18:33:03 GMT express:router query  : /chat
+Fri, 09 Sep 2016 18:33:03 GMT express:router expressInit  : /chat
+Fri, 09 Sep 2016 18:33:03 GMT express:router compression  : /chat
+Fri, 09 Sep 2016 18:33:03 GMT express:router cookieParser  : /chat
+Fri, 09 Sep 2016 18:33:03 GMT express:router session  : /chat
+Fri, 09 Sep 2016 18:33:03 GMT express-session fetching GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:33:03 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:33:03 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:33:03 GMT express-session session found
+Fri, 09 Sep 2016 18:33:03 GMT express:router jsonParser  : /chat
+Fri, 09 Sep 2016 18:33:03 GMT express:router urlencodedParser  : /chat
+Fri, 09 Sep 2016 18:33:03 GMT express:router methodOverride  : /chat
+Fri, 09 Sep 2016 18:33:03 GMT express:router serveStatic  : /chat
+Fri, 09 Sep 2016 18:33:03 GMT send stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\public\chat"
+Fri, 09 Sep 2016 18:33:03 GMT express:router csrf  : /chat
+Fri, 09 Sep 2016 18:33:03 GMT express:router <anonymous>  : /chat
+Fri, 09 Sep 2016 18:33:03 GMT express:view lookup "chat/index.ejs"
+Fri, 09 Sep 2016 18:33:03 GMT express:view stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\chat\index.ejs"
+Fri, 09 Sep 2016 18:33:03 GMT express:view render "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\chat\index.ejs"
+Fri, 09 Sep 2016 18:33:03 GMT express-session saving GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:33:03 GMT connect:redis SET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY" {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}} ttl:86400
+Fri, 09 Sep 2016 18:33:03 GMT compression undefined not compressible
+Fri, 09 Sep 2016 18:33:03 GMT compression no compression: filtered
+Fri, 09 Sep 2016 18:33:03 GMT connect:redis SET complete
+Fri, 09 Sep 2016 18:33:03 GMT socket.io:client client close with reason transport close
+Fri, 09 Sep 2016 18:33:03 GMT socket.io:socket closing socket - reason transport close
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-redis removing /#8tqAsjMMk46K42ACAAAG from all rooms
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-redis removing /#8tqAsjMMk46K42ACAAAG from /#8tqAsjMMk46K42ACAAAG
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"} as 2["send-client","<b>Yuri</b> saiu do chat.<br>"]
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:03 GMT socket.io:socket leave room undefined
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-redis removing /#8tqAsjMMk46K42ACAAAG from undefined
+node_redis: Deprecated: The RPUSH command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Fri, 09 Sep 2016 18:33:03 GMT socket.io:socket left room undefined
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:03 GMT socket.io:server serve client 304
+Fri, 09 Sep 2016 18:33:03 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:33:03 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGENEi"
+Fri, 09 Sep 2016 18:33:03 GMT engine handshaking client "0w0QMhIdVj3DqspjAAAH"
+Fri, 09 Sep 2016 18:33:03 GMT engine:socket sending packet "open" ({"sid":"0w0QMhIdVj3DqspjAAAH","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Fri, 09 Sep 2016 18:33:03 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:33:03 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:33:03 GMT engine:polling writing " 	�0{"sid":"0w0QMhIdVj3DqspjAAAH","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Fri, 09 Sep 2016 18:33:03 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:33:03 GMT socket.io:server incoming connection with id 0w0QMhIdVj3DqspjAAAH
+Fri, 09 Sep 2016 18:33:03 GMT socket.io:client connecting to namespace /
+Fri, 09 Sep 2016 18:33:03 GMT socket.io:namespace adding socket to nsp /
+Fri, 09 Sep 2016 18:33:03 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:33:03 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:33:03 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGENF7&sid=0w0QMhIdVj3DqspjAAAH"
+Fri, 09 Sep 2016 18:33:03 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:33:03 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:33:03 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io:socket socket connected - writing packet
+Fri, 09 Sep 2016 18:33:03 GMT socket.io:socket joining room /#0w0QMhIdVj3DqspjAAAH
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-redis adding /#0w0QMhIdVj3DqspjAAAH to /#0w0QMhIdVj3DqspjAAAH 
+Fri, 09 Sep 2016 18:33:03 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Fri, 09 Sep 2016 18:33:03 GMT engine:socket sending packet "message" (0)
+Fri, 09 Sep 2016 18:33:03 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:33:03 GMT engine:polling writing " �40"
+Fri, 09 Sep 2016 18:33:03 GMT socket.io:socket joined room /#0w0QMhIdVj3DqspjAAAH
+Fri, 09 Sep 2016 18:33:03 GMT engine upgrading existing transport
+Fri, 09 Sep 2016 18:33:03 GMT engine:socket might upgrade socket transport from "polling" to "websocket"
+Fri, 09 Sep 2016 18:33:03 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:03 GMT engine:socket sending packet "message" (2["notify-onlines","yuri@email.com"])
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:03 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:33:03 GMT engine:socket sending packet "message" (2["notify-onlines","fulano@email.com"])
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:33:03 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:33:03 GMT engine:socket sending packet "message" (2["notify-onlines","batata@email.com"])
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:33:03 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:33:03 GMT engine handling "POST" http request "/socket.io/?EIO=3&transport=polling&t=LSGENFL&sid=0w0QMhIdVj3DqspjAAAH"
+Fri, 09 Sep 2016 18:33:03 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:33:03 GMT engine:polling received "13:42["join",""]"
+Fri, 09 Sep 2016 18:33:03 GMT engine:socket packet
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser decoded 2["join",""] as {"type":2,"nsp":"/","data":["join",""]}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io:socket got packet {"type":2,"nsp":"/","data":["join",""]}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io:socket emitting event ["join",""]
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoding packet {"type":2,"data":["new-chat",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoded {"type":2,"data":["new-chat",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}],"nsp":"/"} as 2["new-chat",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}]
+Fri, 09 Sep 2016 18:33:03 GMT socket.io:socket joining room effa78ff73d77535998bd2e283d6a124
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoding packet {"type":2,"data":["new-chat",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoded {"type":2,"data":["new-chat",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}],"nsp":"/"} as 2["new-chat",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}]
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-redis adding /#0w0QMhIdVj3DqspjAAAH to effa78ff73d77535998bd2e283d6a124 
+Fri, 09 Sep 2016 18:33:03 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:33:03 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGENFM&sid=0w0QMhIdVj3DqspjAAAH"
+Fri, 09 Sep 2016 18:33:03 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:33:03 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:33:03 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:33:03 GMT engine:polling writing " �42["notify-onlines","yuri@email.com"] 	�42["notify-onlines","fulano@email.com"] 	�42["notify-onlines","batata@email.com"]"
+Fri, 09 Sep 2016 18:33:03 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:03 GMT socket.io:socket joined room effa78ff73d77535998bd2e283d6a124
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>Yuri</b> entrou no chat.<br>"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>Yuri</b> entrou no chat.<br>"],"nsp":"/"} as 2["send-client","<b>Yuri</b> entrou no chat.<br>"]
+Fri, 09 Sep 2016 18:33:03 GMT socket.io:client writing packet ["2[\"send-client\",\"<b>Yuri</b> entrou no chat.<br>\"]"]
+Fri, 09 Sep 2016 18:33:03 GMT engine:socket sending packet "message" (2["send-client","<b>Yuri</b> entrou no chat.<br>"])
+Fri, 09 Sep 2016 18:33:03 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:33:03 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGENFj&sid=0w0QMhIdVj3DqspjAAAH"
+Fri, 09 Sep 2016 18:33:03 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:33:03 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:33:03 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:33:03 GMT engine:polling writing " �42["send-client","<b>Yuri</b> entrou no chat.<br>"]"
+Fri, 09 Sep 2016 18:33:03 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:33:03 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:03 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:33:03 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGENFr&sid=0w0QMhIdVj3DqspjAAAH"
+Fri, 09 Sep 2016 18:33:03 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:33:03 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:33:03 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:33:03 GMT engine:ws received "2probe"
+Fri, 09 Sep 2016 18:33:03 GMT engine:ws writing "3probe"
+Fri, 09 Sep 2016 18:33:03 GMT engine:socket writing a noop packet to polling for fast upgrade
+Fri, 09 Sep 2016 18:33:03 GMT engine:polling writing " �6"
+Fri, 09 Sep 2016 18:33:03 GMT engine:ws received "5"
+Fri, 09 Sep 2016 18:33:03 GMT engine:socket got upgrade packet - upgrading
+Fri, 09 Sep 2016 18:33:03 GMT engine:polling closing
+Fri, 09 Sep 2016 18:33:03 GMT engine:polling transport discarded - closing right away
+Fri, 09 Sep 2016 18:33:04 GMT engine:ws received "42["send-server","qwdqwd"]"
+Fri, 09 Sep 2016 18:33:04 GMT engine:socket packet
+Fri, 09 Sep 2016 18:33:04 GMT socket.io-parser decoded 2["send-server","qwdqwd"] as {"type":2,"nsp":"/","data":["send-server","qwdqwd"]}
+Fri, 09 Sep 2016 18:33:04 GMT socket.io:socket got packet {"type":2,"nsp":"/","data":["send-server","qwdqwd"]}
+Fri, 09 Sep 2016 18:33:04 GMT socket.io:socket emitting event ["send-server","qwdqwd"]
+Fri, 09 Sep 2016 18:33:04 GMT socket.io-parser encoding packet {"type":2,"data":["new-message",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:04 GMT socket.io-parser encoded {"type":2,"data":["new-message",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}],"nsp":"/"} as 2["new-message",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}]
+Fri, 09 Sep 2016 18:33:04 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>Yuri:</b> qwdqwd<br>"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:04 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>Yuri:</b> qwdqwd<br>"],"nsp":"/"} as 2["send-client","<b>Yuri:</b> qwdqwd<br>"]
+Fri, 09 Sep 2016 18:33:04 GMT socket.io:client writing packet ["2[\"send-client\",\"<b>Yuri:</b> qwdqwd<br>\"]"]
+Fri, 09 Sep 2016 18:33:04 GMT engine:socket sending packet "message" (2["send-client","<b>Yuri:</b> qwdqwd<br>"])
+Fri, 09 Sep 2016 18:33:04 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:33:04 GMT engine:ws writing "42["send-client","<b>Yuri:</b> qwdqwd<br>"]"
+Fri, 09 Sep 2016 18:33:04 GMT socket.io-parser encoding packet {"type":2,"data":["new-message",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:04 GMT socket.io-parser encoded {"type":2,"data":["new-message",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}],"nsp":"/"} as 2["new-message",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}]
+Fri, 09 Sep 2016 18:33:04 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:04 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:06 GMT engine:ws received "42["send-server","wefdwef"]"
+Fri, 09 Sep 2016 18:33:06 GMT engine:socket packet
+Fri, 09 Sep 2016 18:33:06 GMT socket.io-parser decoded 2["send-server","wefdwef"] as {"type":2,"nsp":"/","data":["send-server","wefdwef"]}
+Fri, 09 Sep 2016 18:33:06 GMT socket.io:socket got packet {"type":2,"nsp":"/","data":["send-server","wefdwef"]}
+Fri, 09 Sep 2016 18:33:06 GMT socket.io:socket emitting event ["send-server","wefdwef"]
+Fri, 09 Sep 2016 18:33:06 GMT socket.io-parser encoding packet {"type":2,"data":["new-message",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:06 GMT socket.io-parser encoded {"type":2,"data":["new-message",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}],"nsp":"/"} as 2["new-message",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}]
+Fri, 09 Sep 2016 18:33:06 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>Yuri:</b> wefdwef<br>"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:06 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>Yuri:</b> wefdwef<br>"],"nsp":"/"} as 2["send-client","<b>Yuri:</b> wefdwef<br>"]
+Fri, 09 Sep 2016 18:33:06 GMT socket.io:client writing packet ["2[\"send-client\",\"<b>Yuri:</b> wefdwef<br>\"]"]
+Fri, 09 Sep 2016 18:33:06 GMT engine:socket sending packet "message" (2["send-client","<b>Yuri:</b> wefdwef<br>"])
+Fri, 09 Sep 2016 18:33:06 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:33:06 GMT engine:ws writing "42["send-client","<b>Yuri:</b> wefdwef<br>"]"
+Fri, 09 Sep 2016 18:33:06 GMT socket.io-parser encoding packet {"type":2,"data":["new-message",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:06 GMT socket.io-parser encoded {"type":2,"data":["new-message",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}],"nsp":"/"} as 2["new-message",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}]
+Fri, 09 Sep 2016 18:33:06 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:06 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:07 GMT engine:ws received "42["send-server","fsdf"]"
+Fri, 09 Sep 2016 18:33:07 GMT engine:socket packet
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser decoded 2["send-server","fsdf"] as {"type":2,"nsp":"/","data":["send-server","fsdf"]}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io:socket got packet {"type":2,"nsp":"/","data":["send-server","fsdf"]}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io:socket emitting event ["send-server","fsdf"]
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoding packet {"type":2,"data":["new-message",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoded {"type":2,"data":["new-message",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}],"nsp":"/"} as 2["new-message",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}]
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>Yuri:</b> fsdf<br>"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>Yuri:</b> fsdf<br>"],"nsp":"/"} as 2["send-client","<b>Yuri:</b> fsdf<br>"]
+Fri, 09 Sep 2016 18:33:07 GMT socket.io:client writing packet ["2[\"send-client\",\"<b>Yuri:</b> fsdf<br>\"]"]
+Fri, 09 Sep 2016 18:33:07 GMT engine:socket sending packet "message" (2["send-client","<b>Yuri:</b> fsdf<br>"])
+Fri, 09 Sep 2016 18:33:07 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:33:07 GMT engine:ws writing "42["send-client","<b>Yuri:</b> fsdf<br>"]"
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoding packet {"type":2,"data":["new-message",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoded {"type":2,"data":["new-message",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}],"nsp":"/"} as 2["new-message",{"email":"yuri@email.com","sala":"effa78ff73d77535998bd2e283d6a124"}]
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:07 GMT express:router dispatching GET /contatos
+Fri, 09 Sep 2016 18:33:07 GMT express:router query  : /contatos
+Fri, 09 Sep 2016 18:33:07 GMT express:router expressInit  : /contatos
+Fri, 09 Sep 2016 18:33:07 GMT express:router compression  : /contatos
+Fri, 09 Sep 2016 18:33:07 GMT express:router cookieParser  : /contatos
+Fri, 09 Sep 2016 18:33:07 GMT express:router session  : /contatos
+Fri, 09 Sep 2016 18:33:07 GMT express-session fetching GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:33:07 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:33:07 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:33:07 GMT express-session session found
+Fri, 09 Sep 2016 18:33:07 GMT express:router jsonParser  : /contatos
+Fri, 09 Sep 2016 18:33:07 GMT express:router urlencodedParser  : /contatos
+Fri, 09 Sep 2016 18:33:07 GMT express:router methodOverride  : /contatos
+Fri, 09 Sep 2016 18:33:07 GMT express:router serveStatic  : /contatos
+Fri, 09 Sep 2016 18:33:07 GMT send stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\public\contatos"
+Fri, 09 Sep 2016 18:33:07 GMT express:router csrf  : /contatos
+Fri, 09 Sep 2016 18:33:07 GMT express:router <anonymous>  : /contatos
+Fri, 09 Sep 2016 18:33:07 GMT mquery findOne usuarios { _id: 57c9c9886597ba7807bc8494 } { fields: undefined }
+Fri, 09 Sep 2016 18:33:07 GMT express:view lookup "contatos/index.ejs"
+Fri, 09 Sep 2016 18:33:07 GMT express:view stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\contatos\index.ejs"
+Fri, 09 Sep 2016 18:33:07 GMT express:view render "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\contatos\index.ejs"
+Fri, 09 Sep 2016 18:33:07 GMT express-session saving GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:33:07 GMT connect:redis SET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY" {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}} ttl:86400
+Fri, 09 Sep 2016 18:33:07 GMT express-session split response
+Fri, 09 Sep 2016 18:33:07 GMT compression gzip compression
+Fri, 09 Sep 2016 18:33:07 GMT connect:redis SET complete
+Fri, 09 Sep 2016 18:33:07 GMT socket.io:client client close with reason transport close
+Fri, 09 Sep 2016 18:33:07 GMT socket.io:socket closing socket - reason transport close
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-redis removing /#0w0QMhIdVj3DqspjAAAH from all rooms
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-redis removing /#0w0QMhIdVj3DqspjAAAH from /#0w0QMhIdVj3DqspjAAAH
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-redis removing /#0w0QMhIdVj3DqspjAAAH from effa78ff73d77535998bd2e283d6a124
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"} as 2["send-client","<b>Yuri</b> saiu do chat.<br>"]
+Fri, 09 Sep 2016 18:33:07 GMT socket.io:socket leave room effa78ff73d77535998bd2e283d6a124
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-redis removing /#0w0QMhIdVj3DqspjAAAH from effa78ff73d77535998bd2e283d6a124
+Fri, 09 Sep 2016 18:33:07 GMT socket.io:socket left room effa78ff73d77535998bd2e283d6a124
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:07 GMT socket.io:server serve client 304
+Fri, 09 Sep 2016 18:33:07 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:33:07 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGEONB"
+Fri, 09 Sep 2016 18:33:07 GMT engine handshaking client "tEudsYZdOJzbFvurAAAI"
+Fri, 09 Sep 2016 18:33:07 GMT engine:socket sending packet "open" ({"sid":"tEudsYZdOJzbFvurAAAI","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000})
+Fri, 09 Sep 2016 18:33:07 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:33:07 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:33:07 GMT engine:polling writing " 	�0{"sid":"tEudsYZdOJzbFvurAAAI","upgrades":["websocket"],"pingInterval":25000,"pingTimeout":60000}"
+Fri, 09 Sep 2016 18:33:07 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:33:07 GMT socket.io:server incoming connection with id tEudsYZdOJzbFvurAAAI
+Fri, 09 Sep 2016 18:33:07 GMT socket.io:client connecting to namespace /
+Fri, 09 Sep 2016 18:33:07 GMT socket.io:namespace adding socket to nsp /
+Fri, 09 Sep 2016 18:33:07 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:33:07 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io:socket socket connected - writing packet
+Fri, 09 Sep 2016 18:33:07 GMT socket.io:socket joining room /#tEudsYZdOJzbFvurAAAI
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-redis adding /#tEudsYZdOJzbFvurAAAI to /#tEudsYZdOJzbFvurAAAI 
+Fri, 09 Sep 2016 18:33:07 GMT socket.io:client writing packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoding packet {"type":0,"nsp":"/"}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoded {"type":0,"nsp":"/"} as 0
+Fri, 09 Sep 2016 18:33:07 GMT engine:socket sending packet "message" (0)
+Fri, 09 Sep 2016 18:33:07 GMT socket.io:socket joined room /#tEudsYZdOJzbFvurAAAI
+Fri, 09 Sep 2016 18:33:07 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:07 GMT engine:socket sending packet "message" (2["notify-onlines","yuri@email.com"])
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:07 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","yuri@email.com"],"nsp":"/"} as 2["notify-onlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:33:07 GMT engine:socket sending packet "message" (2["notify-onlines","fulano@email.com"])
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:33:07 GMT socket.io:client writing packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:33:07 GMT engine:socket sending packet "message" (2["notify-onlines","batata@email.com"])
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","fulano@email.com"],"nsp":"/"} as 2["notify-onlines","fulano@email.com"]
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoding packet {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-parser encoded {"type":2,"data":["notify-onlines","batata@email.com"],"nsp":"/"} as 2["notify-onlines","batata@email.com"]
+Fri, 09 Sep 2016 18:33:07 GMT socket.io-redis ignore same uid
+Fri, 09 Sep 2016 18:33:07 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:33:07 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGEONe&sid=tEudsYZdOJzbFvurAAAI"
+Fri, 09 Sep 2016 18:33:07 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:33:07 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:33:07 GMT engine:socket flushing buffer to transport
+Fri, 09 Sep 2016 18:33:07 GMT engine:polling writing " �40 �42["notify-onlines","yuri@email.com"] 	�42["notify-onlines","fulano@email.com"] 	�42["notify-onlines","batata@email.com"]"
+Fri, 09 Sep 2016 18:33:07 GMT engine:socket executing batch send callback
+Fri, 09 Sep 2016 18:33:07 GMT engine upgrading existing transport
+Fri, 09 Sep 2016 18:33:07 GMT engine:socket might upgrade socket transport from "polling" to "websocket"
+Fri, 09 Sep 2016 18:33:07 GMT engine intercepting request for path "/socket.io/"
+Fri, 09 Sep 2016 18:33:07 GMT engine handling "GET" http request "/socket.io/?EIO=3&transport=polling&t=LSGEONt&sid=tEudsYZdOJzbFvurAAAI"
+Fri, 09 Sep 2016 18:33:07 GMT engine setting new request for existing client
+Fri, 09 Sep 2016 18:33:07 GMT engine:polling setting request
+Fri, 09 Sep 2016 18:33:07 GMT engine:ws received "2probe"
+Fri, 09 Sep 2016 18:33:07 GMT engine:ws writing "3probe"
+Fri, 09 Sep 2016 18:33:07 GMT engine:socket writing a noop packet to polling for fast upgrade
+Fri, 09 Sep 2016 18:33:07 GMT engine:polling writing " �6"
+Fri, 09 Sep 2016 18:33:07 GMT engine:ws received "5"
+Fri, 09 Sep 2016 18:33:07 GMT engine:socket got upgrade packet - upgrading
+Fri, 09 Sep 2016 18:33:07 GMT engine:polling closing
+Fri, 09 Sep 2016 18:33:07 GMT engine:polling transport discarded - closing right away
+Fri, 09 Sep 2016 18:33:10 GMT express:router dispatching GET /sair
+Fri, 09 Sep 2016 18:33:10 GMT express:router query  : /sair
+Fri, 09 Sep 2016 18:33:10 GMT express:router expressInit  : /sair
+Fri, 09 Sep 2016 18:33:10 GMT express:router compression  : /sair
+Fri, 09 Sep 2016 18:33:10 GMT express:router cookieParser  : /sair
+Fri, 09 Sep 2016 18:33:10 GMT express:router session  : /sair
+Fri, 09 Sep 2016 18:33:10 GMT express-session fetching GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:33:10 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:33:10 GMT connect:redis GOT {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"TmGOkwbUtWxHZY8kDsLnfQGq","usuario":{"_id":"57c9c9886597ba7807bc8494","nome":"Yuri","email":"yuri@email.com"}}
+Fri, 09 Sep 2016 18:33:10 GMT express-session session found
+Fri, 09 Sep 2016 18:33:10 GMT express:router jsonParser  : /sair
+Fri, 09 Sep 2016 18:33:10 GMT express:router urlencodedParser  : /sair
+Fri, 09 Sep 2016 18:33:10 GMT express:router methodOverride  : /sair
+Fri, 09 Sep 2016 18:33:10 GMT express:router serveStatic  : /sair
+Fri, 09 Sep 2016 18:33:10 GMT send stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\public\sair"
+Fri, 09 Sep 2016 18:33:10 GMT express:router csrf  : /sair
+Fri, 09 Sep 2016 18:33:10 GMT express:router <anonymous>  : /sair
+Fri, 09 Sep 2016 18:33:10 GMT connect:redis DEL "ntalk.sidGaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:33:10 GMT express-session no session
+Fri, 09 Sep 2016 18:33:10 GMT express-session no session
+Fri, 09 Sep 2016 18:33:10 GMT compression no compression: size below threshold
+Fri, 09 Sep 2016 18:33:10 GMT express:router dispatching GET /
+Fri, 09 Sep 2016 18:33:10 GMT express:router query  : /
+Fri, 09 Sep 2016 18:33:10 GMT express:router expressInit  : /
+Fri, 09 Sep 2016 18:33:10 GMT express:router compression  : /
+Fri, 09 Sep 2016 18:33:10 GMT express:router cookieParser  : /
+Fri, 09 Sep 2016 18:33:10 GMT express:router session  : /
+Fri, 09 Sep 2016 18:33:10 GMT express-session fetching GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY
+Fri, 09 Sep 2016 18:33:10 GMT connect:redis GET "GaVGECeiCzMh8t_Oh7V0uJJPypaZMYjY"
+Fri, 09 Sep 2016 18:33:10 GMT express-session no session found
+Fri, 09 Sep 2016 18:33:10 GMT express:router jsonParser  : /
+Fri, 09 Sep 2016 18:33:10 GMT express:router urlencodedParser  : /
+Fri, 09 Sep 2016 18:33:10 GMT express:router methodOverride  : /
+Fri, 09 Sep 2016 18:33:10 GMT express:router serveStatic  : /
+Fri, 09 Sep 2016 18:33:10 GMT send stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\public\index.html"
+Fri, 09 Sep 2016 18:33:10 GMT express:router csrf  : /
+Fri, 09 Sep 2016 18:33:10 GMT express:router <anonymous>  : /
+Fri, 09 Sep 2016 18:33:10 GMT express:view lookup "home/index.ejs"
+Fri, 09 Sep 2016 18:33:10 GMT express:view stat "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\home\index.ejs"
+Fri, 09 Sep 2016 18:33:10 GMT express:view render "C:\Users\yuri.rocha\Desktop\NodeJS\ntalk\views\home\index.ejs"
+Fri, 09 Sep 2016 18:33:10 GMT express-session saving 5bPXd6IlDVIbBbkhGWmx727vazZ9s8Wx
+Fri, 09 Sep 2016 18:33:10 GMT connect:redis SET "5bPXd6IlDVIbBbkhGWmx727vazZ9s8Wx" {"cookie":{"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},"csrfSecret":"vwBJfN56vEvHq-rxhuS6ACFP"} ttl:86400
+Fri, 09 Sep 2016 18:33:10 GMT express-session split response
+Fri, 09 Sep 2016 18:33:10 GMT express-session set-cookie ntalk.sid=s%3A5bPXd6IlDVIbBbkhGWmx727vazZ9s8Wx.lbtvP0FhU1UEH9EVvngZZUEyYeMvSGFQyLHGuRuHCXI; Path=/; HttpOnly
+Fri, 09 Sep 2016 18:33:10 GMT compression no compression: size below threshold
+Fri, 09 Sep 2016 18:33:10 GMT connect:redis SET complete
+Fri, 09 Sep 2016 18:33:10 GMT socket.io:client client close with reason transport close
+Fri, 09 Sep 2016 18:33:10 GMT socket.io:socket closing socket - reason transport close
+Fri, 09 Sep 2016 18:33:10 GMT socket.io-redis removing /#tEudsYZdOJzbFvurAAAI from all rooms
+Fri, 09 Sep 2016 18:33:10 GMT socket.io-redis removing /#tEudsYZdOJzbFvurAAAI from /#tEudsYZdOJzbFvurAAAI
+Fri, 09 Sep 2016 18:33:10 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:10 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+Fri, 09 Sep 2016 18:33:10 GMT socket.io-parser encoding packet {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:10 GMT socket.io-parser encoded {"type":2,"data":["send-client","<b>Yuri</b> saiu do chat.<br>"],"nsp":"/"} as 2["send-client","<b>Yuri</b> saiu do chat.<br>"]
+Fri, 09 Sep 2016 18:33:10 GMT socket.io:socket leave room undefined
+Fri, 09 Sep 2016 18:33:10 GMT socket.io-redis removing /#tEudsYZdOJzbFvurAAAI from undefined
+Fri, 09 Sep 2016 18:33:10 GMT socket.io-parser encoding packet {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"}
+Fri, 09 Sep 2016 18:33:10 GMT socket.io-parser encoded {"type":2,"data":["notify-offlines","yuri@email.com"],"nsp":"/"} as 2["notify-offlines","yuri@email.com"]
+node_redis: Deprecated: The RPUSH command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Fri, 09 Sep 2016 18:33:10 GMT socket.io:socket left room undefined
+Fri, 09 Sep 2016 18:33:10 GMT socket.io-redis ignore same uid

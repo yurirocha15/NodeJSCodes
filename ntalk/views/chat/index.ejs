@@ -1,0 +1,40 @@
+<% include ../header %>
+<script src="/socket.io/socket.io.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<header class="row-fluid text-center">
+	<h2>NTalk - Chat</h2>
+</header>
+<section class="row-fluid">
+	<div class="well span6 offset3">
+		<pre id="chat" class="pre-scrollable" style="width:auto; height:250px"></pre>
+		<div class="input-append">
+			<input type="text" id="msg" class="input-xlarge" placeholder="Digite sua Mensagem">
+			<button class="btn btn-success" onclick="enviar();">Enviar</button>
+			<a href="/contatos" class="btn btn-inverse">Sair do chat</a>
+		</div>
+	</div>
+</section>
+<% include ../exit %>
+<% include ../footer %>
+
+<script>
+	var socket = io.connect('http://localhost:3000');
+
+	socket.emit('join', '<%- sala %>');
+	
+	socket.on('send-client', function(msg)
+	{
+		document.getElementById('chat').innerHTML += msg;
+	});
+
+	var enviar = function()
+	{
+		var msg = $('#msg').val();
+		$('#msg').val('');
+		if(msg)
+		{
+			socket.emit('send-server', msg);
+		}
+		$('#msg').focus();
+	};
+</script>
